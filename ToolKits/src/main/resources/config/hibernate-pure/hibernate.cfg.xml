@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+	"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+	"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+
+	<session-factory>
+	
+	    <!-- 1，database connection setting -->
+	    <property name="hibernate.connection.driver_class">com.sybase.jdbc3.jdbc.SybDriver</property>
+		<property name="hibernate.connection.url">jdbc:sybase:Tds:xxx.hk.xxxx:10100/OES02</property>
+		<property name="hibernate.connection.username">sysgrbsmq</property>
+		<property name="hibernate.connection.password">xbsemfz2</property>
+		<property name="hibernate.dialect">org.hibernate.dialect.Sybase11Dialect</property>
+		
+	    <!-- 2，other setting -->
+		<property name="hibernate.show_sql">true</property>
+		<property name="hibernate.format_sql">true</property>
+	    
+	    <!-- 3，import the relationship mapping file -->
+	    <mapping resource="config/hibernate-pure/Exec.hbm.xml" />
+	    
+	</session-factory>
+	
+</hibernate-configuration>

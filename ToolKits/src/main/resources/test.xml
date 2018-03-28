@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<request type="update" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	build="wp6101_115_01" version="6.1.0.1" xsi:noNamespaceSchemaLocation="PortalConfig_6.1.0.xsd"
+	transaction-level="request">
+
+	<portal action="locate">
+		<url-mapping-context action="update" label="ntt.csa"
+			objectid="C_H8981180IG3L20ITU970F120O5" uniquename="urlmapping.ntt.csa">
+			<access-control externalized="false" owner="wpsadmins"
+				private="false">
+				<role actionset="User" update="set">
+					<mapping subjectid="anonymous portal user" subjecttype="user"
+						update="set" />
+					<mapping subjectid="all authenticated portal users"
+						subjecttype="user_group" update="set" />
+				</role>
+			</access-control>
+			<portal-url resourceref="6_H8981180IG3L20ITU970F120O6" />
+
+			<url-mapping-context action="update"
+				label="servletlauncherkeepalive" objectid="C_H8981180IG3L20ITU970F120K1"
+				uniquename="urlmapping.ITHIDE_ntt.servletlauncherkeepalive">
+				<access-control externalized="false" owner="wpsadmins"
+					private="false">
+					<role actionset="User" update="set">
+						<mapping subjectid="anonymous portal user" subjecttype="user"
+							update="set" />
+						<mapping subjectid="all authenticated portal users"
+							subjecttype="user_group" update="set" />
+					</role>
+				</access-control>
+				<portal-url resourceref="6_H8981180IG3L20ITU970F120K2" />
+			</url-mapping-context>
+
+		</url-mapping-context>
+	</portal>
+
+	<status element="all" result="ok" />
+
+</request>
+
+<request type="update" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	build="wp6101_115_01" version="6.1.0.1" xsi:noNamespaceSchemaLocation="PortalConfig_6.1.0.xsd"
+	transaction-level="request">
+	
+	<portal action="locate">
+		<url-mapping-context action="update" label="ntt.csa"
+			objectid="C_H8981180IG3L20ITU970F120O5" uniquename="urlmapping.ntt.csa">
+			<access-control externalized="false" owner="wpsadmins"
+				private="false">
+				<role actionset="User" update="set">
+					<mapping subjectid="anonymous portal user" subjecttype="user"
+						update="set" />
+					<mapping subjectid="all authenticated portal users"
+						subjecttype="user_group" update="set" />
+				</role>
+			</access-control>
+			<portal-url resourceref="6_H8981180IG3L20ITU970F120O6" />
+			
+			<url-mapping-context action="update" label="csakeepalive"
+				objectid="C_H8981180IG3L20ITU970F12046" uniquename="urlmapping.ITHIDEN_ntt.csakeepalive">
+				<access-control externalized="false" owner="wpsadmins"
+					private="false">
+					<role actionset="User" update="set">
+						<mapping subjectid="anonymous portal user" subjecttype="user"
+							update="set" />
+						<mapping subjectid="all authenticated portal users"
+							subjecttype="user_group" update="set" />
+					</role>
+				</access-control>
+				<portal-url resourceref="6_H8981180IG3L20ITU970F12044" />
+			</url-mapping-context>
+			
+		</url-mapping-context>
+	</portal>
+	
+	<status element="all" result="ok" />
+	
+</request>
+

@@ -1,0 +1,2807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <Market id="HK">
+        <Description locale="en" value="Hong Kong"/>
+        <Description locale="zh_HK" value="香港"/>
+        <Description locale="zh_CN" value="香港"/>
+        <Sector id="BANKS">
+            <Description locale="en" value="Banks"/>
+            <Description locale="zh_HK" value="銀行"/>
+            <Description locale="zh_CN" value="银行"/>
+            <Company id="00005HK">
+                <Description locale="en" value="XXXX HOLDINGS "/>
+                <Description locale="zh_HK" value="XX控股"/>
+                <Description locale="zh_CN" value="XX控股"/>
+            </Company>
+            <Company id="01398HK">
+                <Description locale="en" value="ICBC-H"/>
+                <Description locale="zh_HK" value="工商銀行"/>
+                <Description locale="zh_CN" value="中国工商银行股份有限公司"/>
+                <Report id="1946519454">
+                    <Description locale="en"
+                        path="1398HK-P505180-31Mar16-V1.pdf" value="ICBC-H 20160331"/>
+                    <Description locale="zh_HK" value="工商銀行 20160331"/>
+                    <Description locale="zh_CN" value="中国工商银行股份有限公司 20160331"/>
+                </Report>
+                <Report id="1187618254">
+                    <Description locale="en"
+                        path="1398HK-P607713-01Apr17-V1.pdf" value="ICBC-H 20170401"/>
+                    <Description locale="zh_HK" value="工商銀行 20170401"/>
+                    <Description locale="zh_CN" value="中国工商银行股份有限公司 20170401"/>
+                </Report>
+                <Report id="354554451">
+                    <Description locale="en"
+                        path="1398HK-P525849-31Aug16-V1.pdf" value="ICBC-H 20160831"/>
+                    <Description locale="zh_HK" value="工商銀行 20160831"/>
+                    <Description locale="zh_CN" value="中国工商银行股份有限公司 20160831"/>
+                </Report>
+                <Report id="1304014309">
+                    <Description locale="en"
+                        path="1398HK-P533704-31Oct16-V1.pdf" value="ICBC-H 20161031"/>
+                    <Description locale="zh_HK" value="工商銀行 20161031"/>
+                    <Description locale="zh_CN" value="中国工商银行股份有限公司 20161031"/>
+                </Report>
+            </Company>
+            <Company id="00939HK">
+                <Description locale="en" value="CCB-H"/>
+                <Description locale="zh_HK" value="建設銀行"/>
+                <Description locale="zh_CN" value="建设银行"/>
+            </Company>
+            <Company id="03988HK">
+                <Description locale="en" value="BANK OF CHINA-H"/>
+                <Description locale="zh_HK" value="中國銀行"/>
+                <Description locale="zh_CN" value="中国银行"/>
+                <Report id="1349606637">
+                    <Description locale="en"
+                        path="3988HK-P525828-31Aug16-V1.pdf" value="BANK OF CHINA-H 20160831"/>
+                    <Description locale="zh_HK" value="中國銀行 20160831"/>
+                    <Description locale="zh_CN" value="中国银行 20160831"/>
+                </Report>
+                <Report id="445646126">
+                    <Description locale="en"
+                        path="3988HK-P505147-31Mar16-V1.pdf" value="BANK OF CHINA-H 20160331"/>
+                    <Description locale="zh_HK" value="中國銀行 20160331"/>
+                    <Description locale="zh_CN" value="中国银行 20160331"/>
+                </Report>
+                <Report id="1275486421">
+                    <Description locale="en"
+                        path="3988HK-P608086-01Apr17-V1.pdf" value="BANK OF CHINA-H 20170401"/>
+                    <Description locale="zh_HK" value="中國銀行 20170401"/>
+                    <Description locale="zh_CN" value="中国银行 20170401"/>
+                </Report>
+                <Report id="243237352">
+                    <Description locale="en"
+                        path="3988HK-P532856-27Oct16-V1.pdf" value="BANK OF CHINA-H 20161027"/>
+                    <Description locale="zh_HK" value="中國銀行 20161027"/>
+                    <Description locale="zh_CN" value="中国银行 20161027"/>
+                </Report>
+            </Company>
+            <Company id="01288HK">
+                <Description locale="en" value="ABC-H"/>
+                <Description locale="zh_HK" value="農業銀行"/>
+                <Description locale="zh_CN" value="农业银行"/>
+                <Report id="2049213955">
+                    <Description locale="en"
+                        path="1288HK-P525301-27Aug16-V1.pdf" value="ABC-H 20160827"/>
+                    <Description locale="zh_HK" value="農業銀行 20160827"/>
+                    <Description locale="zh_CN" value="农业银行 20160827"/>
+                </Report>
+                <Report id="27092370">
+                    <Description locale="en"
+                        path="1288HK-P509717-29Apr16-V1.pdf" value="ABC-H 20160429"/>
+                    <Description locale="zh_HK" value="農業銀行 20160429"/>
+                    <Description locale="zh_CN" value="农业银行 20160429"/>
+                </Report>
+                <Report id="-763707095">
+                    <Description locale="en"
+                        path="1288HK-P533557-31Oct16-V1.pdf" value="ABC-H 20161031"/>
+                    <Description locale="zh_HK" value="農業銀行 20161031"/>
+                    <Description locale="zh_CN" value="农业银行 20161031"/>
+                </Report>
+                <Report id="-927656458">
+                    <Description locale="en"
+                        path="1288HK-P602007-29Mar17-V1.pdf" value="ABC-H 20170329"/>
+                    <Description locale="zh_HK" value="農業銀行 20170329"/>
+                    <Description locale="zh_CN" value="农业银行 20170329"/>
+                </Report>
+            </Company>
+            <Company id="03968HK">
+                <Description locale="en" value="CM BANK-H"/>
+                <Description locale="zh_HK" value="招商銀行"/>
+                <Description locale="zh_CN" value="招商银行"/>
+                <Report id="1706508387">
+                    <Description locale="en"
+                        path="3968HK-P635006-21Apr17-V1.pdf" value="CM BANK-H 20170421"/>
+                    <Description locale="zh_HK" value="招商銀行 20170421"/>
+                    <Description locale="zh_CN" value="招商银行 20170421"/>
+                </Report>
+                <Report id="924065486">
+                    <Description locale="en"
+                        path="3968HK-P509736-29Apr16-V1.pdf" value="CM BANK-H 20160429"/>
+                    <Description locale="zh_HK" value="招商銀行 20160429"/>
+                    <Description locale="zh_CN" value="招商银行 20160429"/>
+                </Report>
+                <Report id="-920551703">
+                    <Description locale="en"
+                        path="3968HK-P533693-31Oct16-V1.pdf" value="CM BANK-H 20161031"/>
+                    <Description locale="zh_HK" value="招商銀行 20161031"/>
+                    <Description locale="zh_CN" value="招商银行 20161031"/>
+                </Report>
+                <Report id="-2085319223">
+                    <Description locale="en"
+                        path="3968HK-P505106-31Mar16-V1.pdf" value="CM BANK-H 20160331"/>
+                    <Description locale="zh_HK" value="招商銀行 20160331"/>
+                    <Description locale="zh_CN" value="招商银行 20160331"/>
+                </Report>
+                <Report id="-1470327647">
+                    <Description locale="en"
+                        path="3968HK-P512499-20May16-V1.pdf" value="CM BANK-H 20160520"/>
+                    <Description locale="zh_HK" value="招商銀行 20160520"/>
+                    <Description locale="zh_CN" value="招商银行 20160520"/>
+                </Report>
+                <Report id="-377126097">
+                    <Description locale="en"
+                        path="3968HK-P597033-27Mar17-V1.pdf" value="CM BANK-H 20170327"/>
+                    <Description locale="zh_HK" value="招商銀行 20170327"/>
+                    <Description locale="zh_CN" value="招商银行 20170327"/>
+                </Report>
+            </Company>
+            <Company id="03328HK">
+                <Description locale="en" value="BANKCOMM-H"/>
+                <Description locale="zh_HK" value="交通銀行"/>
+                <Description locale="zh_CN" value="交通银行"/>
+                <Report id="-1495943766">
+                    <Description locale="en"
+                        path="3328HK-P533562-31Oct16-V1.pdf" value="BANKCOMM-H 20161031"/>
+                    <Description locale="zh_HK" value="交通銀行 20161031"/>
+                    <Description locale="zh_CN" value="交通银行 20161031"/>
+                </Report>
+                <Report id="-2251352">
+                    <Description locale="en"
+                        path="3328HK-P504943-30Mar16-V1.pdf" value="BANKCOMM-H 20160330"/>
+                    <Description locale="zh_HK" value="交通銀行 20160330"/>
+                    <Description locale="zh_CN" value="交通银行 20160330"/>
+                </Report>
+                <Report id="-893079458">
+                    <Description locale="en"
+                        path="3328HK-P525157-26Aug16-V1.pdf" value="BANKCOMM-H 20160826"/>
+                    <Description locale="zh_HK" value="交通銀行 20160826"/>
+                    <Description locale="zh_CN" value="交通银行 20160826"/>
+                </Report>
+                <Report id="-157879835">
+                    <Description locale="en"
+                        path="3328HK-P512475-20May16-V1.pdf" value="BANKCOMM-H 20160520"/>
+                    <Description locale="zh_HK" value="交通銀行 20160520"/>
+                    <Description locale="zh_CN" value="交通银行 20160520"/>
+                </Report>
+                <Report id="-1336972910">
+                    <Description locale="en"
+                        path="3328HK-P601984-29Mar17-V1.pdf" value="BANKCOMM-H 20170329"/>
+                    <Description locale="zh_HK" value="交通銀行 20170329"/>
+                    <Description locale="zh_CN" value="交通银行 20170329"/>
+                </Report>
+                <Report id="526617933">
+                    <Description locale="en"
+                        path="3328HK-P509728-29Apr16-V1.pdf" value="BANKCOMM-H 20160429"/>
+                    <Description locale="zh_HK" value="交通銀行 20160429"/>
+                    <Description locale="zh_CN" value="交通银行 20160429"/>
+                </Report>
+            </Company>
+            <Company id="01658HK">
+                <Description locale="en" value="POSTAL SAVINGS-H"/>
+                <Description locale="zh_HK" value="中國郵政儲蓄銀行股份有限公司"/>
+                <Description locale="zh_CN" value="中国邮政储蓄银行股份有限公司"/>
+            </Company>
+            <Company id="01988HK">
+                <Description locale="en" value="MINSHENG BANK-H"/>
+                <Description locale="zh_HK" value="民生銀行"/>
+                <Description locale="zh_CN" value="民生银行"/>
+            </Company>
+            <Company id="00998HK">
+                <Description locale="en" value="CITIC BANK-H"/>
+                <Description locale="zh_HK" value="中信銀行"/>
+                <Description locale="zh_CN" value="中信银行"/>
+                <Report id="-1942925533">
+                    <Description locale="en"
+                        path="0998HK-P525161-26Aug16-V1.pdf" value="CITIC BANK-H 20160826"/>
+                    <Description locale="zh_HK" value="中信銀行 20160826"/>
+                    <Description locale="zh_CN" value="中信银行 20160826"/>
+                </Report>
+                <Report id="-692582050">
+                    <Description locale="en"
+                        path="0998HK-P592536-23Mar17-V1.pdf" value="CITIC BANK-H 20170323"/>
+                    <Description locale="zh_HK" value="中信銀行 20170323"/>
+                    <Description locale="zh_CN" value="中信银行 20170323"/>
+                </Report>
+                <Report id="-1493117605">
+                    <Description locale="en"
+                        path="0998HK-P509491-28Apr16-V1.pdf" value="CITIC BANK-H 20160428"/>
+                    <Description locale="zh_HK" value="中信銀行 20160428"/>
+                    <Description locale="zh_CN" value="中信银行 20160428"/>
+                </Report>
+                <Report id="-446060917">
+                    <Description locale="en"
+                        path="0998HK-P533116-28Oct16-V1.pdf" value="CITIC BANK-H 20161028"/>
+                    <Description locale="zh_HK" value="中信銀行 20161028"/>
+                    <Description locale="zh_CN" value="中信银行 20161028"/>
+                </Report>
+            </Company>
+            <Company id="02388HK">
+                <Description locale="en" value="BOC HONG KONG HO"/>
+                <Description locale="zh_HK" value="中銀香港"/>
+                <Description locale="zh_CN" value="中银香港"/>
+                <Report id="2052377539">
+                    <Description locale="en"
+                        path="2388HK-P495548-02Feb16-V1.pdf" value="BOC HONG KONG HO 20160202"/>
+                    <Description locale="zh_HK" value="中銀香港 20160202"/>
+                    <Description locale="zh_CN" value="中银香港 20160202"/>
+                </Report>
+                <Report id="-898779691">
+                    <Description locale="en"
+                        path="2388HK-P532881-27Oct16-V1.pdf" value="BOC HONG KONG HO 20161027"/>
+                    <Description locale="zh_HK" value="中銀香港 20161027"/>
+                    <Description locale="zh_CN" value="中银香港 20161027"/>
+                </Report>
+                <Report id="1085511570">
+                    <Description locale="en"
+                        path="2388HK-P525810-02Sep16-V1.pdf" value="BOC HONG KONG HO 20160902"/>
+                    <Description locale="zh_HK" value="中銀香港 20160902"/>
+                    <Description locale="zh_CN" value="中银香港 20160902"/>
+                </Report>
+                <Report id="-616909324">
+                    <Description locale="en"
+                        path="2388HK-P608534-03Apr17-V1.pdf" value="BOC HONG KONG HO 20170403"/>
+                    <Description locale="zh_HK" value="中銀香港 20170403"/>
+                    <Description locale="zh_CN" value="中银香港 20170403"/>
+                </Report>
+                <Report id="-1663078119">
+                    <Description locale="en"
+                        path="2388HK-P517070-30Jun16-V1.pdf" value="BOC HONG KONG HO 20160630"/>
+                    <Description locale="zh_HK" value="中銀香港 20160630"/>
+                    <Description locale="zh_CN" value="中银香港 20160630"/>
+                </Report>
+                <Report id="1532463670">
+                    <Description locale="en"
+                        path="2388HK-P505078-31Mar16-V1.pdf" value="BOC HONG KONG HO 20160331"/>
+                    <Description locale="zh_HK" value="中銀香港 20160331"/>
+                    <Description locale="zh_CN" value="中银香港 20160331"/>
+                </Report>
+                <Report id="620920633">
+                    <Description locale="en"
+                        path="2388HK-P525810-31Aug16-V1.pdf" value="BOC HONG KONG HO 20160831"/>
+                    <Description locale="zh_HK" value="中銀香港 20160831"/>
+                    <Description locale="zh_CN" value="中银香港 20160831"/>
+                </Report>
+            </Company>
+            <Company id="06818HK">
+                <Description locale="en" value="CEB BANK-H"/>
+                <Description locale="zh_HK" value="光大銀行"/>
+                <Description locale="zh_CN" value="光大银行"/>
+            </Company>
+            <Company id="00023HK">
+                <Description locale="en" value="BANK EAST ASIA"/>
+                <Description locale="zh_HK" value="東亞銀行"/>
+                <Description locale="zh_CN" value="东亚银行"/>
+                <Report id="1404708360">
+                    <Description locale="en"
+                        path="0023HK-P530612-11Oct16-V1.pdf" value="BANK EAST ASIA 20161011"/>
+                    <Description locale="zh_HK" value="東亞銀行 20161011"/>
+                    <Description locale="zh_CN" value="东亚银行 20161011"/>
+                </Report>
+                <Report id="2131061036">
+                    <Description locale="en"
+                        path="0023HK-P586355-20Mar17-V1.pdf" value="BANK EAST ASIA 20170320"/>
+                    <Description locale="zh_HK" value="東亞銀行 20170320"/>
+                    <Description locale="zh_CN" value="东亚银行 20170320"/>
+                </Report>
+                <Report id="-1240955534">
+                    <Description locale="en"
+                        path="0023HK-P556113-17Feb17-V1.pdf" value="BANK EAST ASIA 20170217"/>
+                    <Description locale="zh_HK" value="東亞銀行 20170217"/>
+                    <Description locale="zh_CN" value="东亚银行 20170217"/>
+                </Report>
+            </Company>
+            <Company id="03618HK">
+                <Description locale="en" value="CQRC BANK-H"/>
+                <Description locale="zh_HK" value="重慶農村商業銀行"/>
+                <Description locale="zh_CN" value="重庆农村商业银行"/>
+            </Company>
+            <Company id="03698HK">
+                <Description locale="en" value="HUISHANG BANK-H"/>
+                <Description locale="zh_HK" value="徽商銀行"/>
+                <Description locale="zh_CN" value="徽商银行"/>
+            </Company>
+        </Sector>
+        <Sector id="AIRLINES">
+            <Description locale="en" value="Airlines"/>
+            <Description locale="zh_HK" value="航空公司"/>
+            <Description locale="zh_CN" value="航空公司"/>
+            <Company id="00753HK">
+                <Description locale="en" value="AIR CHINA LTD-H"/>
+                <Description locale="zh_HK" value="中國國航"/>
+                <Description locale="zh_CN" value="中国国航"/>
+            </Company>
+            <Company id="00670HK">
+                <Description locale="en" value="CHINA EAST AIR-H"/>
+                <Description locale="zh_HK" value="東方航空"/>
+                <Description locale="zh_CN" value="东方航空"/>
+            </Company>
+            <Company id="01055HK">
+                <Description locale="en" value="CHINA SOUTHERN-H"/>
+                <Description locale="zh_HK" value="南方航空"/>
+                <Description locale="zh_CN" value="南方航空"/>
+            </Company>
+            <Company id="00293HK">
+                <Description locale="en" value="CATHAY PAC AIR"/>
+                <Description locale="zh_HK" value="國泰航空"/>
+                <Description locale="zh_CN" value="国泰航空"/>
+            </Company>
+        </Sector>
+        <Sector id="AUTO_COMP">
+            <Description locale="en" value="Auto Components"/>
+            <Description locale="zh_HK" value="汽車零部件"/>
+            <Description locale="zh_CN" value="汽车零部件"/>
+            <Company id="03606HK">
+                <Description locale="en" value="FUYAO GLASS IN-H"/>
+                <Description locale="zh_HK" value="福耀玻璃"/>
+                <Description locale="zh_CN" value="福耀玻璃"/>
+            </Company>
+        </Sector>
+        <Sector id="AUTOS">
+            <Description locale="en" value="Autos"/>
+            <Description locale="zh_HK" value="汽車製造"/>
+            <Description locale="zh_CN" value="汽车制造"/>
+            <Company id="02238HK">
+                <Description locale="en" value="GUANGZHOU AUTO-H"/>
+                <Description locale="zh_HK" value="廣汽集團"/>
+                <Description locale="zh_CN" value="广汽集团"/>
+            </Company>
+            <Company id="02333HK">
+                <Description locale="en" value="GREAT WALL MOT-H"/>
+                <Description locale="zh_HK" value="長城汽車"/>
+                <Description locale="zh_CN" value="长城汽车"/>
+                <Report id="-614546665">
+                    <Description locale="en"
+                        path="2333HK-P520560-29Jul16-V1.pdf" value="GREAT WALL MOT-H 20160729"/>
+                    <Description locale="zh_HK" value="長城汽車 20160729"/>
+                    <Description locale="zh_CN" value="长城汽车 20160729"/>
+                </Report>
+                <Report id="1576526236">
+                    <Description locale="en"
+                        path="2333HK-P517595-06Jul16-V1.pdf" value="GREAT WALL MOT-H 20160706"/>
+                    <Description locale="zh_HK" value="長城汽車 20160706"/>
+                    <Description locale="zh_CN" value="长城汽车 20160706"/>
+                </Report>
+                <Report id="-296305477">
+                    <Description locale="en"
+                        path="2333HK-P541159-09Jan17-V1.pdf" value="GREAT WALL MOT-H 20170109"/>
+                    <Description locale="zh_HK" value="長城汽車 20170109"/>
+                    <Description locale="zh_CN" value="长城汽车 20170109"/>
+                </Report>
+                <Report id="1247994333">
+                    <Description locale="en"
+                        path="2333HK-P535943-17Nov16-V1.pdf" value="GREAT WALL MOT-H 20161117"/>
+                    <Description locale="zh_HK" value="長城汽車 20161117"/>
+                    <Description locale="zh_CN" value="长城汽车 20161117"/>
+                </Report>
+                <Report id="1799502493">
+                    <Description locale="en"
+                        path="2333HK-P525419-29Aug16-V1.pdf" value="GREAT WALL MOT-H 20160829"/>
+                    <Description locale="zh_HK" value="長城汽車 20160829"/>
+                    <Description locale="zh_CN" value="长城汽车 20160829"/>
+                </Report>
+                <Report id="-456816399">
+                    <Description locale="en"
+                        path="2333HK-P600427-28Mar17-V1.pdf" value="GREAT WALL MOT-H 20170328"/>
+                    <Description locale="zh_HK" value="長城汽車 20170328"/>
+                    <Description locale="zh_CN" value="长城汽车 20170328"/>
+                </Report>
+                <Report id="-1859426124">
+                    <Description locale="en"
+                        path="2333HK-P514346-07Jun16-V1.pdf" value="GREAT WALL MOT-H 20160607"/>
+                    <Description locale="zh_HK" value="長城汽車 20160607"/>
+                    <Description locale="zh_CN" value="长城汽车 20160607"/>
+                </Report>
+                <Report id="548347124">
+                    <Description locale="en"
+                        path="2333HK-P491147-06Jan16-V1.pdf" value="GREAT WALL MOT-H 20160106"/>
+                    <Description locale="zh_HK" value="長城汽車 20160106"/>
+                    <Description locale="zh_CN" value="长城汽车 20160106"/>
+                </Report>
+                <Report id="-895907360">
+                    <Description locale="en"
+                        path="2333HK-P534376-04Nov16-V1.pdf" value="GREAT WALL MOT-H 20161104"/>
+                    <Description locale="zh_HK" value="長城汽車 20161104"/>
+                    <Description locale="zh_CN" value="长城汽车 20161104"/>
+                </Report>
+                <Report id="-1866252141">
+                    <Description locale="en"
+                        path="2333HK-P538845-07Dec16-V1.pdf" value="GREAT WALL MOT-H 20161207"/>
+                    <Description locale="zh_HK" value="長城汽車 20161207"/>
+                    <Description locale="zh_CN" value="长城汽车 20161207"/>
+                </Report>
+                <Report id="-1893605673">
+                    <Description locale="en"
+                        path="2333HK-P504734-29Mar16-V1.pdf" value="GREAT WALL MOT-H 20160329"/>
+                    <Description locale="zh_HK" value="長城汽車 20160329"/>
+                    <Description locale="zh_CN" value="长城汽车 20160329"/>
+                </Report>
+                <Report id="682767999">
+                    <Description locale="en"
+                        path="2333HK-P531917-20Oct16-V1.pdf" value="GREAT WALL MOT-H 20161020"/>
+                    <Description locale="zh_HK" value="長城汽車 20161020"/>
+                    <Description locale="zh_CN" value="长城汽车 20161020"/>
+                </Report>
+                <Report id="-1775371608">
+                    <Description locale="en"
+                        path="2333HK-P550107-07Feb17-V1.pdf" value="GREAT WALL MOT-H 20170207"/>
+                    <Description locale="zh_HK" value="長城汽車 20170207"/>
+                    <Description locale="zh_CN" value="长城汽车 20170207"/>
+                </Report>
+                <Report id="2118352605">
+                    <Description locale="en"
+                        path="2333HK-P500087-08Mar16-V1.pdf" value="GREAT WALL MOT-H 20160308"/>
+                    <Description locale="zh_HK" value="長城汽車 20160308"/>
+                    <Description locale="zh_CN" value="长城汽车 20160308"/>
+                </Report>
+                <Report id="1979308212">
+                    <Description locale="en"
+                        path="2333HK-P586048-18Mar17-V1.pdf" value="GREAT WALL MOT-H 20170318"/>
+                    <Description locale="zh_HK" value="長城汽車 20170318"/>
+                    <Description locale="zh_CN" value="长城汽车 20170318"/>
+                </Report>
+                <Report id="1563840703">
+                    <Description locale="en"
+                        path="2333HK-P506261-07Apr16-V1.pdf" value="GREAT WALL MOT-H 20160407"/>
+                    <Description locale="zh_HK" value="長城汽車 20160407"/>
+                    <Description locale="zh_CN" value="长城汽车 20160407"/>
+                </Report>
+                <Report id="-438511385">
+                    <Description locale="en"
+                        path="2333HK-P532718-26Oct16-V1.pdf" value="GREAT WALL MOT-H 20161026"/>
+                    <Description locale="zh_HK" value="長城汽車 20161026"/>
+                    <Description locale="zh_CN" value="长城汽车 20161026"/>
+                </Report>
+                <Report id="-882861391">
+                    <Description locale="en"
+                        path="2333HK-P541734-13Jan17-V1.pdf" value="GREAT WALL MOT-H 20170113"/>
+                    <Description locale="zh_HK" value="長城汽車 20170113"/>
+                    <Description locale="zh_CN" value="长城汽车 20170113"/>
+                </Report>
+                <Report id="673594590">
+                    <Description locale="en"
+                        path="2333HK-P508480-25Apr16-V1.pdf" value="GREAT WALL MOT-H 20160425"/>
+                    <Description locale="zh_HK" value="長城汽車 20160425"/>
+                    <Description locale="zh_CN" value="长城汽车 20160425"/>
+                </Report>
+                <Report id="1055270381">
+                    <Description locale="en"
+                        path="2333HK-P497444-16Feb16-V1.pdf" value="GREAT WALL MOT-H 20160216"/>
+                    <Description locale="zh_HK" value="長城汽車 20160216"/>
+                    <Description locale="zh_CN" value="长城汽车 20160216"/>
+                </Report>
+                <Report id="-1272487666">
+                    <Description locale="en"
+                        path="2333HK-P503768-22Mar16-V1.pdf" value="GREAT WALL MOT-H 20160322"/>
+                    <Description locale="zh_HK" value="長城汽車 20160322"/>
+                    <Description locale="zh_CN" value="长城汽车 20160322"/>
+                </Report>
+                <Report id="-1904194439">
+                    <Description locale="en"
+                        path="2333HK-P647571-28Apr17-V1.pdf" value="GREAT WALL MOT-H 20170428"/>
+                    <Description locale="zh_HK" value="長城汽車 20170428"/>
+                    <Description locale="zh_CN" value="长城汽车 20170428"/>
+                </Report>
+            </Company>
+            <Company id="00175HK">
+                <Description locale="en" value="GEELY AUTOMOBILE"/>
+                <Description locale="zh_HK" value="吉利汽車"/>
+                <Description locale="zh_CN" value="吉利汽车"/>
+            </Company>
+            <Company id="00489HK">
+                <Description locale="en" value="DONGFENG MOTOR-H"/>
+                <Description locale="zh_HK" value="東風集團股份"/>
+                <Description locale="zh_CN" value="东风集团股份"/>
+                <Report id="701046156">
+                    <Description locale="en"
+                        path="0489HK-P504940-30Mar16-V1.pdf" value="DONGFENG MOTOR-H 20160330"/>
+                    <Description locale="zh_HK" value="東風集團股份 20160330"/>
+                    <Description locale="zh_CN" value="东风集团股份 20160330"/>
+                </Report>
+                <Report id="1174086248">
+                    <Description locale="en"
+                        path="0489HK-P525371-29Aug16-V1.pdf" value="DONGFENG MOTOR-H 20160829"/>
+                    <Description locale="zh_HK" value="東風集團股份 20160829"/>
+                    <Description locale="zh_CN" value="东风集团股份 20160829"/>
+                </Report>
+                <Report id="-306456406">
+                    <Description locale="en"
+                        path="0489HK-P533596-31Oct16-V1.pdf" value="DONGFENG MOTOR-H 20161031"/>
+                    <Description locale="zh_HK" value="東風集團股份 20161031"/>
+                    <Description locale="zh_CN" value="东风集团股份 20161031"/>
+                </Report>
+                <Report id="-532532216">
+                    <Description locale="en"
+                        path="0489HK-P520218-28Jul16-V1.pdf" value="DONGFENG MOTOR-H 20160728"/>
+                    <Description locale="zh_HK" value="東風集團股份 20160728"/>
+                    <Description locale="zh_CN" value="东风集团股份 20160728"/>
+                </Report>
+                <Report id="-7450338">
+                    <Description locale="en"
+                        path="0489HK-P531848-20Oct16-V1.pdf" value="DONGFENG MOTOR-H 20161020"/>
+                    <Description locale="zh_HK" value="東風集團股份 20161020"/>
+                    <Description locale="zh_CN" value="东风集团股份 20161020"/>
+                </Report>
+                <Report id="944764459">
+                    <Description locale="en"
+                        path="0489HK-P498551-25Feb16-V1.pdf" value="DONGFENG MOTOR-H 20160225"/>
+                    <Description locale="zh_HK" value="東風集團股份 20160225"/>
+                    <Description locale="zh_CN" value="东风集团股份 20160225"/>
+                </Report>
+            </Company>
+            <Company id="01958HK">
+                <Description locale="en" value="BAIC MOTOR-H"/>
+                <Description locale="zh_HK" value="北京汽車"/>
+                <Description locale="zh_CN" value="北京汽车"/>
+            </Company>
+            <Company id="01114HK">
+                <Description locale="en" value="BRILLIANCE CHINA"/>
+                <Description locale="zh_HK" value="華晨中國汽車"/>
+                <Description locale="zh_CN" value="华晨中国汽车控股有限公司"/>
+                <Report id="-356458307">
+                    <Description locale="en"
+                        path="1114HK-P591838-23Mar17-V1.pdf" value="BRILLIANCE CHINA 20170323"/>
+                    <Description locale="zh_HK" value="華晨中國汽車 20170323"/>
+                    <Description locale="zh_CN" value="华晨中国汽车控股有限公司 20170323"/>
+                </Report>
+                <Report id="1787980549">
+                    <Description locale="en"
+                        path="1114HK-P498526-25Feb16-V1.pdf" value="BRILLIANCE CHINA 20160225"/>
+                    <Description locale="zh_HK" value="華晨中國汽車 20160225"/>
+                    <Description locale="zh_CN" value="华晨中国汽车控股有限公司 20160225"/>
+                </Report>
+                <Report id="-677380518">
+                    <Description locale="en"
+                        path="1114HK-P503122-17Mar16-V1.pdf" value="BRILLIANCE CHINA 20160317"/>
+                    <Description locale="zh_HK" value="華晨中國汽車 20160317"/>
+                    <Description locale="zh_CN" value="华晨中国汽车控股有限公司 20160317"/>
+                </Report>
+                <Report id="-1427095694">
+                    <Description locale="en"
+                        path="1114HK-P541731-13Jan17-V1.pdf" value="BRILLIANCE CHINA 20170113"/>
+                    <Description locale="zh_HK" value="華晨中國汽車 20170113"/>
+                    <Description locale="zh_CN" value="华晨中国汽车控股有限公司 20170113"/>
+                </Report>
+                <Report id="-419364519">
+                    <Description locale="en"
+                        path="1114HK-P597050-27Mar17-V1.pdf" value="BRILLIANCE CHINA 20170327"/>
+                    <Description locale="zh_HK" value="華晨中國汽車 20170327"/>
+                    <Description locale="zh_CN" value="华晨中国汽车控股有限公司 20170327"/>
+                </Report>
+                <Report id="-1760117914">
+                    <Description locale="en"
+                        path="1114HK-P510239-04May16-V1.pdf" value="BRILLIANCE CHINA 20160504"/>
+                    <Description locale="zh_HK" value="華晨中國汽車 20160504"/>
+                    <Description locale="zh_CN" value="华晨中国汽车控股有限公司 20160504"/>
+                </Report>
+                <Report id="382270160">
+                    <Description locale="en"
+                        path="1114HK-P504717-29Mar16-V1.pdf" value="BRILLIANCE CHINA 20160329"/>
+                    <Description locale="zh_HK" value="華晨中國汽車 20160329"/>
+                    <Description locale="zh_CN" value="华晨中国汽车控股有限公司 20160329"/>
+                </Report>
+                <Report id="428954436">
+                    <Description locale="en"
+                        path="1114HK-P525366-29Aug16-V1.pdf" value="BRILLIANCE CHINA 20160829"/>
+                    <Description locale="zh_HK" value="華晨中國汽車 20160829"/>
+                    <Description locale="zh_CN" value="华晨中国汽车控股有限公司 20160829"/>
+                </Report>
+                <Report id="-120500510">
+                    <Description locale="en"
+                        path="1114HK-P531846-20Oct16-V1.pdf" value="BRILLIANCE CHINA 20161020"/>
+                    <Description locale="zh_HK" value="華晨中國汽車 20161020"/>
+                    <Description locale="zh_CN" value="华晨中国汽车控股有限公司 20161020"/>
+                </Report>
+                <Report id="1645091645">
+                    <Description locale="en"
+                        path="1114HK-P534554-05Nov16-V1.pdf" value="BRILLIANCE CHINA 20161105"/>
+                    <Description locale="zh_HK" value="華晨中國汽車 20161105"/>
+                    <Description locale="zh_CN" value="华晨中国汽车控股有限公司 20161105"/>
+                </Report>
+                <Report id="2006772888">
+                    <Description locale="en"
+                        path="1114HK-P657160-05May17-V2.pdf" value="BRILLIANCE CHINA 20170505"/>
+                    <Description locale="zh_HK" value="華晨中國汽車 20170505"/>
+                    <Description locale="zh_CN" value="华晨中国汽车控股有限公司 20170505"/>
+                </Report>
+                <Report id="395570041">
+                    <Description locale="en"
+                        path="1114HK-P521259-03Aug16-V1.pdf" value="BRILLIANCE CHINA 20160803"/>
+                    <Description locale="zh_HK" value="華晨中國汽車 20160803"/>
+                    <Description locale="zh_CN" value="华晨中国汽车控股有限公司 20160803"/>
+                </Report>
+            </Company>
+        </Sector>
+        <Sector id="INFRASTRUCTURE">
+            <Description locale="en" value="Infrastructure"/>
+            <Description locale="zh_HK" value="基建"/>
+            <Description locale="zh_CN" value="基建"/>
+            <Company id="00371HK">
+                <Description locale="en" value="BJ ENT WATER"/>
+                <Description locale="zh_HK" value="北控水務集團"/>
+                <Description locale="zh_CN" value="北控水务集团"/>
+                <Report id="1649631458">
+                    <Description locale="en"
+                        path="0371HK-P509131-27Apr16-V1.pdf" value="BJ ENT WATER 20160427"/>
+                    <Description locale="zh_HK" value="北控水務集團 20160427"/>
+                    <Description locale="zh_CN" value="北控水务集团 20160427"/>
+                </Report>
+                <Report id="-366785992">
+                    <Description locale="en"
+                        path="0371HK-P557490-21Feb17-V1.pdf" value="BJ ENT WATER 20170221"/>
+                    <Description locale="zh_HK" value="北控水務集團 20170221"/>
+                    <Description locale="zh_CN" value="北控水务集团 20170221"/>
+                </Report>
+                <Report id="-218026620">
+                    <Description locale="en"
+                        path="0371HK-P525891-31Aug16-V1.pdf" value="BJ ENT WATER 20160831"/>
+                    <Description locale="zh_HK" value="北控水務集團 20160831"/>
+                    <Description locale="zh_CN" value="北控水务集团 20160831"/>
+                </Report>
+                <Report id="1038055482">
+                    <Description locale="en"
+                        path="0371HK-P492485-15Jan16-V1.pdf" value="BJ ENT WATER 20160115"/>
+                    <Description locale="zh_HK" value="北控水務集團 20160115"/>
+                    <Description locale="zh_CN" value="北控水务集团 20160115"/>
+                </Report>
+                <Report id="-236146259">
+                    <Description locale="en"
+                        path="0371HK-P621764-11Apr17-V1.pdf" value="BJ ENT WATER 20170411"/>
+                    <Description locale="zh_HK" value="北控水務集團 20170411"/>
+                    <Description locale="zh_CN" value="北控水务集团 20170411"/>
+                </Report>
+                <Report id="1835958072">
+                    <Description locale="en"
+                        path="0371HK-P505124-31Mar16-V1.pdf" value="BJ ENT WATER 20160331"/>
+                    <Description locale="zh_HK" value="北控水務集團 20160331"/>
+                    <Description locale="zh_CN" value="北控水务集团 20160331"/>
+                </Report>
+            </Company>
+            <Company id="00257HK">
+                <Description locale="en" value="CHINA EVERBR INT"/>
+                <Description locale="zh_HK" value="中國光大國際"/>
+                <Description locale="zh_CN" value="中国光大国际"/>
+                <Report id="1212405115">
+                    <Description locale="en"
+                        path="0257HK-P523117-16Aug16-V1.pdf" value="CHINA EVERBR INT 20160816"/>
+                    <Description locale="zh_HK" value="中國光大國際 20160816"/>
+                    <Description locale="zh_CN" value="中国光大国际 20160816"/>
+                </Report>
+                <Report id="22377901">
+                    <Description locale="en"
+                        path="0257HK-P499301-01Mar16-V1.pdf" value="CHINA EVERBR INT 20160301"/>
+                    <Description locale="zh_HK" value="中國光大國際 20160301"/>
+                    <Description locale="zh_CN" value="中国光大国际 20160301"/>
+                </Report>
+                <Report id="339035921">
+                    <Description locale="en"
+                        path="0257HK-P539166-10Dec16-V1.pdf" value="CHINA EVERBR INT 20161210"/>
+                    <Description locale="zh_HK" value="中國光大國際 20161210"/>
+                    <Description locale="zh_CN" value="中国光大国际 20161210"/>
+                </Report>
+                <Report id="615048140">
+                    <Description locale="en"
+                        path="0257HK-P499215-29Feb16-V1.pdf" value="CHINA EVERBR INT 20160229"/>
+                    <Description locale="zh_HK" value="中國光大國際 20160229"/>
+                    <Description locale="zh_CN" value="中国光大国际 20160229"/>
+                </Report>
+                <Report id="691008234">
+                    <Description locale="en"
+                        path="0257HK-P497378-16Feb16-V1.pdf" value="CHINA EVERBR INT 20160216"/>
+                    <Description locale="zh_HK" value="中國光大國際 20160216"/>
+                    <Description locale="zh_CN" value="中国光大国际 20160216"/>
+                </Report>
+                <Report id="-1150803494">
+                    <Description locale="en"
+                        path="0257HK-P506285-07Apr16-V1.pdf" value="CHINA EVERBR INT 20160407"/>
+                    <Description locale="zh_HK" value="中國光大國際 20160407"/>
+                    <Description locale="zh_CN" value="中国光大国际 20160407"/>
+                </Report>
+                <Report id="-96470899">
+                    <Description locale="en"
+                        path="0257HK-P567744-03Mar17-V1.pdf" value="CHINA EVERBR INT 20170303"/>
+                    <Description locale="zh_HK" value="中國光大國際 20170303"/>
+                    <Description locale="zh_CN" value="中国光大国际 20170303"/>
+                </Report>
+                <Report id="980544965">
+                    <Description locale="en"
+                        path="0257HK-P498102-20Feb16-V1.pdf" value="CHINA EVERBR INT 20160220"/>
+                    <Description locale="zh_HK" value="中國光大國際 20160220"/>
+                    <Description locale="zh_CN" value="中国光大国际 20160220"/>
+                </Report>
+            </Company>
+            <Company id="01038HK">
+                <Description locale="en" value="CKI HOLDINGS"/>
+                <Description locale="zh_HK" value="長江基建集團"/>
+                <Description locale="zh_CN" value="长江基建集团"/>
+            </Company>
+        </Sector>
+        <Sector id="COMPUTERS">
+            <Description locale="en" value="Computers Peripherals"/>
+            <Description locale="zh_HK" value="電腦及周邊設備"/>
+            <Description locale="zh_CN" value="电脑及周边设备"/>
+            <Company id="00992HK">
+                <Description locale="en" value="LENOVO GROUP"/>
+                <Description locale="zh_HK" value="聯想集團"/>
+                <Description locale="zh_CN" value="联想集团"/>
+                <Report id="-418209812">
+                    <Description locale="en"
+                        path="0992HK-P513348-27May16-V1.pdf" value="LENOVO GROUP 20160527"/>
+                    <Description locale="zh_HK" value="聯想集團 20160527"/>
+                    <Description locale="zh_CN" value="联想集团 20160527"/>
+                </Report>
+                <Report id="-131839875">
+                    <Description locale="en"
+                        path="0992HK-P495918-04Feb16-V1.pdf" value="LENOVO GROUP 20160204"/>
+                    <Description locale="zh_HK" value="聯想集團 20160204"/>
+                    <Description locale="zh_CN" value="联想集团 20160204"/>
+                </Report>
+                <Report id="189094346">
+                    <Description locale="en"
+                        path="0992HK-P495441-02Feb16-V1.pdf" value="LENOVO GROUP 20160202"/>
+                    <Description locale="zh_HK" value="聯想集團 20160202"/>
+                    <Description locale="zh_CN" value="联想集团 20160202"/>
+                </Report>
+                <Report id="582621645">
+                    <Description locale="en"
+                        path="0992HK-P555358-17Feb17-V1.pdf" value="LENOVO GROUP 20170217"/>
+                    <Description locale="zh_HK" value="聯想集團 20170217"/>
+                    <Description locale="zh_CN" value="联想集团 20170217"/>
+                </Report>
+                <Report id="-1146304880">
+                    <Description locale="en"
+                        path="0992HK-P530269-07Oct16-V1.pdf" value="LENOVO GROUP 20161007"/>
+                    <Description locale="zh_HK" value="聯想集團 20161007"/>
+                    <Description locale="zh_CN" value="联想集团 20161007"/>
+                </Report>
+                <Report id="7545026">
+                    <Description locale="en"
+                        path="0992HK-P534384-04Nov16-V1.pdf" value="LENOVO GROUP 20161104"/>
+                    <Description locale="zh_HK" value="聯想集團 20161104"/>
+                    <Description locale="zh_CN" value="联想集团 20161104"/>
+                </Report>
+                <Report id="-390949907">
+                    <Description locale="en"
+                        path="0992HK-P511020-10May16-V1.pdf" value="LENOVO GROUP 20160510"/>
+                    <Description locale="zh_HK" value="聯想集團 20160510"/>
+                    <Description locale="zh_CN" value="联想集团 20160510"/>
+                </Report>
+                <Report id="2118901822">
+                    <Description locale="en"
+                        path="0992HK-P523646-18Aug16-V1.pdf" value="LENOVO GROUP 20160818"/>
+                    <Description locale="zh_HK" value="聯想集團 20160818"/>
+                    <Description locale="zh_CN" value="联想集团 20160818"/>
+                </Report>
+            </Company>
+        </Sector>
+        <Sector id="CONGLOMERATES">
+            <Description locale="en" value="Conglomerates"/>
+            <Description locale="zh_HK" value="綜合企業"/>
+            <Description locale="zh_CN" value="综合企业"/>
+            <Company id="00001HK">
+                <Description locale="en" value="CKH HOLDINGS"/>
+                <Description locale="zh_HK" value="長和"/>
+                <Description locale="zh_CN" value="长和"/>
+            </Company>
+            <Company id="00066HK">
+                <Description locale="en" value="MTR CORP"/>
+                <Description locale="zh_HK" value="港鐵公司"/>
+                <Description locale="zh_CN" value="港铁公司"/>
+                <Report id="1393491828">
+                    <Description locale="en"
+                        path="0066HK-P510084-03May16-V1.pdf" value="MTR CORP 20160503"/>
+                    <Description locale="zh_HK" value="港鐵公司 20160503"/>
+                    <Description locale="zh_CN" value="港铁公司 20160503"/>
+                </Report>
+                <Report id="-1686288619">
+                    <Description locale="en"
+                        path="0066HK-P502698-14Mar16-V1.pdf" value="MTR CORP 20160314"/>
+                    <Description locale="zh_HK" value="港鐵公司 20160314"/>
+                    <Description locale="zh_CN" value="港铁公司 20160314"/>
+                </Report>
+                <Report id="-537503101">
+                    <Description locale="en"
+                        path="0066HK-P522392-10Aug16-V1.pdf" value="MTR CORP 20160810"/>
+                    <Description locale="zh_HK" value="港鐵公司 20160810"/>
+                    <Description locale="zh_CN" value="港铁公司 20160810"/>
+                </Report>
+                <Report id="1260689425">
+                    <Description locale="en"
+                        path="0066HK-P571742-08Mar17-V1.pdf" value="MTR CORP 20170308"/>
+                    <Description locale="zh_HK" value="港鐵公司 20170308"/>
+                    <Description locale="zh_CN" value="港铁公司 20170308"/>
+                </Report>
+                <Report id="1456329621">
+                    <Description locale="en"
+                        path="0066HK-P540833-06Jan17-V1.pdf" value="MTR CORP 20170106"/>
+                    <Description locale="zh_HK" value="港鐵公司 20170106"/>
+                    <Description locale="zh_CN" value="港铁公司 20170106"/>
+                </Report>
+            </Company>
+            <Company id="00019HK">
+                <Description locale="en" value="SWIRE PACIFIC-A"/>
+                <Description locale="zh_HK" value="太古股份公司"/>
+                <Description locale="zh_CN" value="太古股份公司"/>
+                <Report id="223678854">
+                    <Description locale="en"
+                        path="0019HK-P584426-17Mar17-V1.pdf" value="SWIRE PACIFIC-A 20170317"/>
+                    <Description locale="zh_HK" value="太古股份公司 20170317"/>
+                    <Description locale="zh_CN" value="太古股份公司 20170317"/>
+                </Report>
+                <Report id="30331917">
+                    <Description locale="en"
+                        path="0019HK-P502530-11Mar16-V1.pdf" value="SWIRE PACIFIC-A 20160311"/>
+                    <Description locale="zh_HK" value="太古股份公司 20160311"/>
+                    <Description locale="zh_CN" value="太古股份公司 20160311"/>
+                </Report>
+                <Report id="895863567">
+                    <Description locale="en"
+                        path="0019HK-P491167-06Jan16-V1.pdf" value="SWIRE PACIFIC-A 20160106"/>
+                    <Description locale="zh_HK" value="太古股份公司 20160106"/>
+                    <Description locale="zh_CN" value="太古股份公司 20160106"/>
+                </Report>
+                <Report id="-1923594698">
+                    <Description locale="en"
+                        path="0019HK-P523737-19Aug16-V1.pdf" value="SWIRE PACIFIC-A 20160819"/>
+                    <Description locale="zh_HK" value="太古股份公司 20160819"/>
+                    <Description locale="zh_CN" value="太古股份公司 20160819"/>
+                </Report>
+            </Company>
+        </Sector>
+        <Sector id="RAILWAY_CONSTRUCT">
+            <Description locale="en" value="Railway Construction"/>
+            <Description locale="zh_HK" value="鐵路建設"/>
+            <Description locale="zh_CN" value="铁路建设"/>
+            <Company id="00390HK">
+                <Description locale="en" value="CHINA RAIL GR-H"/>
+                <Description locale="zh_HK" value="中國中鐵"/>
+                <Description locale="zh_CN" value="中国中铁"/>
+            </Company>
+            <Company id="01186HK">
+                <Description locale="en" value="CHINA RAIL CN-H"/>
+                <Description locale="zh_HK" value="中國鐵建"/>
+                <Description locale="zh_CN" value="中国铁建"/>
+            </Company>
+            <Company id="03898HK">
+                <Description locale="en" value="ZHUZHOU CRRC T-H"/>
+                <Description locale="zh_HK" value="中車時代電氣"/>
+                <Description locale="zh_CN" value="中车时代电气"/>
+                <Report id="-1045356816">
+                    <Description locale="en"
+                        path="3898HK-P527712-13Sep16-V1.pdf" value="ZHUZHOU CRRC T-H 20160913"/>
+                    <Description locale="zh_HK" value="中車時代電氣 20160913"/>
+                    <Description locale="zh_CN" value="中车时代电气 20160913"/>
+                </Report>
+                <Report id="1794895658">
+                    <Description locale="en"
+                        path="3898HK-P512504-19May16-V1.pdf" value="ZHUZHOU CRRC T-H 20160519"/>
+                    <Description locale="zh_HK" value="中車時代電氣 20160519"/>
+                    <Description locale="zh_CN" value="中车时代电气 20160519"/>
+                </Report>
+                <Report id="-159869629">
+                    <Description locale="en"
+                        path="3898HK-P491915-12Jan16-V1.pdf" value="ZHUZHOU CRRC T-H 20160112"/>
+                    <Description locale="zh_HK" value="中車時代電氣 20160112"/>
+                    <Description locale="zh_CN" value="中车时代电气 20160112"/>
+                </Report>
+                <Report id="-74422544">
+                    <Description locale="en"
+                        path="3898HK-P505497-01Apr16-V1.pdf" value="ZHUZHOU CRRC T-H 20160401"/>
+                    <Description locale="zh_HK" value="中車時代電氣 20160401"/>
+                    <Description locale="zh_CN" value="中车时代电气 20160401"/>
+                </Report>
+                <Report id="1534333709">
+                    <Description locale="en"
+                        path="3898HK-P531734-19Oct16-V1.pdf" value="ZHUZHOU CRRC T-H 20161019"/>
+                    <Description locale="zh_HK" value="中車時代電氣 20161019"/>
+                    <Description locale="zh_CN" value="中车时代电气 20161019"/>
+                </Report>
+                <Report id="1222274111">
+                    <Description locale="en"
+                        path="3898HK-P539173-09Dec16-V1.pdf" value="ZHUZHOU CRRC T-H 20161209"/>
+                    <Description locale="zh_HK" value="中車時代電氣 20161209"/>
+                    <Description locale="zh_CN" value="中车时代电气 20161209"/>
+                </Report>
+                <Report id="1422811186">
+                    <Description locale="en"
+                        path="3898HK-P505562-02Apr16-V1.pdf" value="ZHUZHOU CRRC T-H 20160402"/>
+                    <Description locale="zh_HK" value="中車時代電氣 20160402"/>
+                    <Description locale="zh_CN" value="中车时代电气 20160402"/>
+                </Report>
+                <Report id="-1671441802">
+                    <Description locale="en"
+                        path="3898HK-P526387-03Sep16-V1.pdf" value="ZHUZHOU CRRC T-H 20160903"/>
+                    <Description locale="zh_HK" value="中車時代電氣 20160903"/>
+                    <Description locale="zh_CN" value="中车时代电气 20160903"/>
+                </Report>
+                <Report id="-777565646">
+                    <Description locale="en"
+                        path="3898HK-P508388-23Apr16-V1.pdf" value="ZHUZHOU CRRC T-H 20160423"/>
+                    <Description locale="zh_HK" value="中車時代電氣 20160423"/>
+                    <Description locale="zh_CN" value="中车时代电气 20160423"/>
+                </Report>
+                <Report id="1895540620">
+                    <Description locale="en"
+                        path="3898HK-P513047-25May16-V1.pdf" value="ZHUZHOU CRRC T-H 20160525"/>
+                    <Description locale="zh_HK" value="中車時代電氣 20160525"/>
+                    <Description locale="zh_CN" value="中车时代电气 20160525"/>
+                </Report>
+                <Report id="546920104">
+                    <Description locale="en"
+                        path="3898HK-P539629-13Dec16-V1.pdf" value="ZHUZHOU CRRC T-H 20161213"/>
+                    <Description locale="zh_HK" value="中車時代電氣 20161213"/>
+                    <Description locale="zh_CN" value="中车时代电气 20161213"/>
+                </Report>
+                <Report id="-2004469488">
+                    <Description locale="en"
+                        path="3898HK-P523825-20Aug16-V1.pdf" value="ZHUZHOU CRRC T-H 20160820"/>
+                    <Description locale="zh_HK" value="中車時代電氣 20160820"/>
+                    <Description locale="zh_CN" value="中车时代电气 20160820"/>
+                </Report>
+                <Report id="-189219120">
+                    <Description locale="en"
+                        path="3898HK-P601537-29Mar17-V1.pdf" value="ZHUZHOU CRRC T-H 20170329"/>
+                    <Description locale="zh_HK" value="中車時代電氣 20170329"/>
+                    <Description locale="zh_CN" value="中车时代电气 20170329"/>
+                </Report>
+            </Company>
+            <Company id="01766HK">
+                <Description locale="en" value="CRRC CORP LTD -H"/>
+                <Description locale="zh_HK" value="中國中車"/>
+                <Description locale="zh_CN" value="中国中车"/>
+                <Report id="554485161">
+                    <Description locale="en"
+                        path="1766HK-P604007-30Mar17-V1.pdf" value="CRRC CORP LTD -H 20170330"/>
+                    <Description locale="zh_HK" value="中國中車 20170330"/>
+                    <Description locale="zh_CN" value="中国中车 20170330"/>
+                </Report>
+                <Report id="359419720">
+                    <Description locale="en"
+                        path="1766HK-P506945-13Apr16-V1.pdf" value="CRRC CORP LTD -H 20160413"/>
+                    <Description locale="zh_HK" value="中國中車 20160413"/>
+                    <Description locale="zh_CN" value="中国中车 20160413"/>
+                </Report>
+                <Report id="-1807094721">
+                    <Description locale="en"
+                        path="1766HK-P491906-12Jan16-V1.pdf" value="CRRC CORP LTD -H 20160112"/>
+                    <Description locale="zh_HK" value="中國中車 20160112"/>
+                    <Description locale="zh_CN" value="中国中车 20160112"/>
+                </Report>
+                <Report id="-1290882922">
+                    <Description locale="en"
+                        path="1766HK-P524458-23Aug16-V1.pdf" value="CRRC CORP LTD -H 20160823"/>
+                    <Description locale="zh_HK" value="中國中車 20160823"/>
+                    <Description locale="zh_CN" value="中国中车 20160823"/>
+                </Report>
+                <Report id="-1180797423">
+                    <Description locale="en"
+                        path="1766HK-P521949-06Aug16-V1.pdf" value="CRRC CORP LTD -H 20160806"/>
+                    <Description locale="zh_HK" value="中國中車 20160806"/>
+                    <Description locale="zh_CN" value="中国中车 20160806"/>
+                </Report>
+                <Report id="982756428">
+                    <Description locale="en"
+                        path="1766HK-P647436-28Apr17-V1.pdf" value="CRRC CORP LTD -H 20170428"/>
+                    <Description locale="zh_HK" value="中國中車 20170428"/>
+                    <Description locale="zh_CN" value="中国中车 20170428"/>
+                </Report>
+                <Report id="-934324426">
+                    <Description locale="en"
+                        path="1766HK-P542068-16Jan17-V1.pdf" value="CRRC CORP LTD -H 20170116"/>
+                    <Description locale="zh_HK" value="中國中車 20170116"/>
+                    <Description locale="zh_CN" value="中国中车 20170116"/>
+                </Report>
+                <Report id="-1917825721">
+                    <Description locale="en"
+                        path="1766HK-P520604-29Jul16-V1.pdf" value="CRRC CORP LTD -H 20160729"/>
+                    <Description locale="zh_HK" value="中國中車 20160729"/>
+                    <Description locale="zh_CN" value="中国中车 20160729"/>
+                </Report>
+                <Report id="1616206238">
+                    <Description locale="en"
+                        path="1766HK-P537301-28Nov16-V1.pdf" value="CRRC CORP LTD -H 20161128"/>
+                    <Description locale="zh_HK" value="中國中車 20161128"/>
+                    <Description locale="zh_CN" value="中国中车 20161128"/>
+                </Report>
+                <Report id="-1802576250">
+                    <Description locale="en"
+                        path="1766HK-P533676-31Oct16-V1.pdf" value="CRRC CORP LTD -H 20161031"/>
+                    <Description locale="zh_HK" value="中國中車 20161031"/>
+                    <Description locale="zh_CN" value="中国中车 20161031"/>
+                </Report>
+                <Report id="2008453501">
+                    <Description locale="en"
+                        path="1766HK-P529374-29Sep16-V1.pdf" value="CRRC CORP LTD -H 20160929"/>
+                    <Description locale="zh_HK" value="中國中車 20160929"/>
+                    <Description locale="zh_CN" value="中国中车 20160929"/>
+                </Report>
+                <Report id="1603628484">
+                    <Description locale="en"
+                        path="1766HK-P513510-31May16-V1.pdf" value="CRRC CORP LTD -H 20160531"/>
+                    <Description locale="zh_HK" value="中國中車 20160531"/>
+                    <Description locale="zh_CN" value="中国中车 20160531"/>
+                </Report>
+                <Report id="1191228614">
+                    <Description locale="en"
+                        path="1766HK-P543947-20Jan17-V1.pdf" value="CRRC CORP LTD -H 20170120"/>
+                    <Description locale="zh_HK" value="中國中車 20170120"/>
+                    <Description locale="zh_CN" value="中国中车 20170120"/>
+                </Report>
+                <Report id="603754007">
+                    <Description locale="en"
+                        path="1766HK-P509475-28Apr16-V1.pdf" value="CRRC CORP LTD -H 20160428"/>
+                    <Description locale="zh_HK" value="中國中車 20160428"/>
+                    <Description locale="zh_CN" value="中国中车 20160428"/>
+                </Report>
+                <Report id="923226722">
+                    <Description locale="en"
+                        path="1766HK-P504927-30Mar16-V1.pdf" value="CRRC CORP LTD -H 20160330"/>
+                    <Description locale="zh_HK" value="中國中車 20160330"/>
+                    <Description locale="zh_CN" value="中国中车 20160330"/>
+                </Report>
+                <Report id="683545897">
+                    <Description locale="en"
+                        path="1766HK-P502315-10Mar16-V1.pdf" value="CRRC CORP LTD -H 20160310"/>
+                    <Description locale="zh_HK" value="中國中車 20160310"/>
+                    <Description locale="zh_CN" value="中国中车 20160310"/>
+                </Report>
+                <Report id="-1945801682">
+                    <Description locale="en"
+                        path="1766HK-P519301-20Jul16-V1.pdf" value="CRRC CORP LTD -H 20160720"/>
+                    <Description locale="zh_HK" value="中國中車 20160720"/>
+                    <Description locale="zh_CN" value="中国中车 20160720"/>
+                </Report>
+                <Report id="1888845690">
+                    <Description locale="en"
+                        path="1766HK-P546574-27Jan17-V1.pdf" value="CRRC CORP LTD -H 20170127"/>
+                    <Description locale="zh_HK" value="中國中車 20170127"/>
+                    <Description locale="zh_CN" value="中国中车 20170127"/>
+                </Report>
+            </Company>
+        </Sector>
+        <Sector id="FIANICIAL">
+            <Description locale="en" value="Financial Services"/>
+            <Description locale="zh_HK" value="金融服務"/>
+            <Description locale="zh_CN" value="综合金融服务"/>
+            <Company id="00388HK">
+                <Description locale="en" value="HKEX"/>
+                <Description locale="zh_HK" value="香港交易所"/>
+                <Description locale="zh_CN" value="香港交易所"/>
+                <Report id="-602562121">
+                    <Description locale="en"
+                        path="0388HK-P499591-03Mar16-V1.pdf" value="HKEX 20160303"/>
+                    <Description locale="zh_HK" value="香港交易所 20160303"/>
+                    <Description locale="zh_CN" value="香港交易所 20160303"/>
+                </Report>
+                <Report id="-287919096">
+                    <Description locale="en"
+                        path="0388HK-P563116-27Feb17-V1.pdf" value="HKEX 20170227"/>
+                    <Description locale="zh_HK" value="香港交易所 20170227"/>
+                    <Description locale="zh_CN" value="香港交易所 20170227"/>
+                </Report>
+                <Report id="-1877064347">
+                    <Description locale="en"
+                        path="0388HK-P534092-02Nov16-V1.pdf" value="HKEX 20161102"/>
+                    <Description locale="zh_HK" value="香港交易所 20161102"/>
+                    <Description locale="zh_CN" value="香港交易所 20161102"/>
+                </Report>
+                <Report id="333932802">
+                    <Description locale="en"
+                        path="0388HK-P495536-02Feb16-V1.pdf" value="HKEX 20160202"/>
+                    <Description locale="zh_HK" value="香港交易所 20160202"/>
+                    <Description locale="zh_CN" value="香港交易所 20160202"/>
+                </Report>
+                <Report id="1112825231">
+                    <Description locale="en"
+                        path="0388HK-P522409-10Aug16-V1.pdf" value="HKEX 20160810"/>
+                    <Description locale="zh_HK" value="香港交易所 20160810"/>
+                    <Description locale="zh_CN" value="香港交易所 20160810"/>
+                </Report>
+                <Report id="-1449752712">
+                    <Description locale="en"
+                        path="0388HK-P528350-20Sep16-V1.pdf" value="HKEX 20160920"/>
+                    <Description locale="zh_HK" value="香港交易所 20160920"/>
+                    <Description locale="zh_CN" value="香港交易所 20160920"/>
+                </Report>
+                <Report id="-2103866359">
+                    <Description locale="en"
+                        path="0388HK-P511233-11May16-V1.pdf" value="HKEX 20160511"/>
+                    <Description locale="zh_HK" value="香港交易所 20160511"/>
+                    <Description locale="zh_CN" value="香港交易所 20160511"/>
+                </Report>
+                <Report id="-924276882">
+                    <Description locale="en"
+                        path="0388HK-P585336-17Mar17-V1.pdf" value="HKEX 20170317"/>
+                    <Description locale="zh_HK" value="香港交易所 20170317"/>
+                    <Description locale="zh_CN" value="香港交易所 20170317"/>
+                </Report>
+                <Report id="-256260878">
+                    <Description locale="en"
+                        path="0388HK-P516321-24Jun16-V1.pdf" value="HKEX 20160624"/>
+                    <Description locale="zh_HK" value="香港交易所 20160624"/>
+                    <Description locale="zh_CN" value="香港交易所 20160624"/>
+                </Report>
+                <Report id="-6093881">
+                    <Description locale="en"
+                        path="0388HK-P665784-11May17-V1.pdf" value="HKEX 20170511"/>
+                    <Description locale="zh_HK" value="香港交易所 20170511"/>
+                    <Description locale="zh_CN" value="香港交易所 20170511"/>
+                </Report>
+                <Report id="1503653658">
+                    <Description locale="en"
+                        path="0388HK-P520850-02Aug16-V1.pdf" value="HKEX 20160802"/>
+                    <Description locale="zh_HK" value="香港交易所 20160802"/>
+                    <Description locale="zh_CN" value="香港交易所 20160802"/>
+                </Report>
+            </Company>
+        </Sector>
+        <Sector id="BROKERAGE">
+            <Description locale="en" value="Brokerage"/>
+            <Description locale="zh_HK" value="證券商"/>
+            <Description locale="zh_CN" value="证券商"/>
+            <Company id="06030HK">
+                <Description locale="en" value="CITIC SEC-H"/>
+                <Description locale="zh_HK" value="中信証券"/>
+                <Description locale="zh_CN" value="中信证券"/>
+                <Report id="-616097079">
+                    <Description locale="en"
+                        path="6030HK-P525028-25Aug16-V1.pdf" value="CITIC SEC-H 20160825"/>
+                    <Description locale="zh_HK" value="中信証券 20160825"/>
+                    <Description locale="zh_CN" value="中信证券 20160825"/>
+                </Report>
+            </Company>
+            <Company id="06837HK">
+                <Description locale="en" value="HAITONG SECURI-H"/>
+                <Description locale="zh_HK" value="海通証券"/>
+                <Description locale="zh_CN" value="海通证券"/>
+            </Company>
+            <Company id="01776HK">
+                <Description locale="en" value="GF SECURITIES-H"/>
+                <Description locale="zh_HK" value="廣發證券"/>
+                <Description locale="zh_CN" value="广发证券"/>
+            </Company>
+            <Company id="06886HK">
+                <Description locale="en" value="HUATAI SECURIT-H"/>
+                <Description locale="zh_HK" value="華泰証券"/>
+                <Description locale="zh_CN" value="华泰证券"/>
+            </Company>
+            <Company id="06881HK">
+                <Description locale="en" value="CGS-H"/>
+                <Description locale="zh_HK" value="中國銀河"/>
+                <Description locale="zh_CN" value="中国银河"/>
+            </Company>
+            <Company id="06099HK">
+                <Description locale="en" value="CHINA MERCHAN-H"/>
+                <Description locale="zh_HK" value="招商証券"/>
+                <Description locale="zh_CN" value="招商证券"/>
+            </Company>
+            <Company id="01375HK">
+                <Description locale="en" value="CC SECURITIES-H"/>
+                <Description locale="zh_HK" value="中原證券"/>
+                <Description locale="zh_CN" value="中原证券"/>
+            </Company>
+            <Company id="03908HK">
+                <Description locale="en" value="CHINA INTERNAT-H"/>
+                <Description locale="zh_HK" value="中金公司"/>
+                <Description locale="zh_CN" value="中国国际金融股份有限公司"/>
+            </Company>
+        </Sector>
+        <Sector id="TELECOMS">
+            <Description locale="en" value="Telecoms"/>
+            <Description locale="zh_HK" value="電信"/>
+            <Description locale="zh_CN" value="电信"/>
+            <Company id="00728HK">
+                <Description locale="en" value="CHINA TELECOM-H"/>
+                <Description locale="zh_HK" value="中國電信"/>
+                <Description locale="zh_CN" value="中国电信"/>
+                <Report id="1710970424">
+                    <Description locale="en"
+                        path="0728HK-P524592-23Aug16-V1.pdf" value="CHINA TELECOM-H 20160823"/>
+                    <Description locale="zh_HK" value="中國電信 20160823"/>
+                    <Description locale="zh_CN" value="中国电信 20160823"/>
+                </Report>
+                <Report id="-1785254865">
+                    <Description locale="en"
+                        path="0728HK-P509620-29Apr16-V1.pdf" value="CHINA TELECOM-H 20160429"/>
+                    <Description locale="zh_HK" value="中國電信 20160429"/>
+                    <Description locale="zh_CN" value="中国电信 20160429"/>
+                </Report>
+                <Report id="265779075">
+                    <Description locale="en"
+                        path="0728HK-P589984-22Mar17-V1.pdf" value="CHINA TELECOM-H 20170322"/>
+                    <Description locale="zh_HK" value="中國電信 20170322"/>
+                    <Description locale="zh_CN" value="中国电信 20170322"/>
+                </Report>
+                <Report id="-1516868253">
+                    <Description locale="en"
+                        path="0728HK-P533527-29Oct16-V1.pdf" value="CHINA TELECOM-H 20161029"/>
+                    <Description locale="zh_HK" value="中國電信 20161029"/>
+                    <Description locale="zh_CN" value="中国电信 20161029"/>
+                </Report>
+                <Report id="-1798360666">
+                    <Description locale="en"
+                        path="0728HK-P646631-27Apr17-V1.pdf" value="CHINA TELECOM-H 20170427"/>
+                    <Description locale="zh_HK" value="中國電信 20170427"/>
+                    <Description locale="zh_CN" value="中国电信 20170427"/>
+                </Report>
+                <Report id="-825330969">
+                    <Description locale="en"
+                        path="0728HK-P504447-24Mar16-V1.pdf" value="CHINA TELECOM-H 20160324"/>
+                    <Description locale="zh_HK" value="中國電信 20160324"/>
+                    <Description locale="zh_CN" value="中国电信 20160324"/>
+                </Report>
+            </Company>
+            <Company id="06823HK">
+                <Description locale="en" value="HKT-SS"/>
+                <Description locale="zh_HK" value="香港電訊-SS"/>
+                <Description locale="zh_CN" value="香港电讯-SS"/>
+            </Company>
+            <Company id="00008HK">
+                <Description locale="en" value="PCCW LTD"/>
+                <Description locale="zh_HK" value="電訊盈科"/>
+                <Description locale="zh_CN" value="电讯盈科"/>
+            </Company>
+            <Company id="01310HK">
+                <Description locale="en" value="HKBN LTD"/>
+                <Description locale="zh_HK" value="香港寬頻"/>
+                <Description locale="zh_CN" value="香港宽频网络有限公司"/>
+            </Company>
+            <Company id="00941HK">
+                <Description locale="en" value="CHINA MOBILE"/>
+                <Description locale="zh_HK" value="中國移動"/>
+                <Description locale="zh_CN" value="中国移动"/>
+                <Report id="-691747570">
+                    <Description locale="en"
+                        path="0941HK-P532086-21Oct16-V2.pdf" value="CHINA MOBILE 20161021"/>
+                    <Description locale="zh_HK" value="中國移動 20161021"/>
+                    <Description locale="zh_CN" value="中国移动 20161021"/>
+                </Report>
+                <Report id="-1387866482">
+                    <Description locale="en"
+                        path="0941HK-P522717-12Aug16-V1.pdf" value="CHINA MOBILE 20160812"/>
+                    <Description locale="zh_HK" value="中國移動 20160812"/>
+                    <Description locale="zh_CN" value="中国移动 20160812"/>
+                </Report>
+                <Report id="1652179531">
+                    <Description locale="en"
+                        path="0941HK-P594330-24Mar17-V1.pdf" value="CHINA MOBILE 20170324"/>
+                    <Description locale="zh_HK" value="中國移動 20170324"/>
+                    <Description locale="zh_CN" value="中国移动 20170324"/>
+                </Report>
+                <Report id="-1631919657">
+                    <Description locale="en"
+                        path="0941HK-P503387-18Mar16-V1.pdf" value="CHINA MOBILE 20160318"/>
+                    <Description locale="zh_HK" value="中國移動 20160318"/>
+                    <Description locale="zh_CN" value="中国移动 20160318"/>
+                </Report>
+                <Report id="2057299881">
+                    <Description locale="en"
+                        path="0941HK-P635035-21Apr17-V1.pdf" value="CHINA MOBILE 20170421"/>
+                    <Description locale="zh_HK" value="中國移動 20170421"/>
+                    <Description locale="zh_CN" value="中国移动 20170421"/>
+                </Report>
+                <Report id="149505392">
+                    <Description locale="en"
+                        path="0941HK-P508045-21Apr16-V1.pdf" value="CHINA MOBILE 20160421"/>
+                    <Description locale="zh_HK" value="中國移動 20160421"/>
+                    <Description locale="zh_CN" value="中国移动 20160421"/>
+                </Report>
+            </Company>
+            <Company id="00762HK">
+                <Description locale="en" value="CHINA UNICOM"/>
+                <Description locale="zh_HK" value="中國聯通"/>
+                <Description locale="zh_CN" value="中国联通"/>
+                <Report id="-1797199470">
+                    <Description locale="en"
+                        path="0762HK-P508168-22Apr16-V1.pdf" value="CHINA UNICOM 20160422"/>
+                    <Description locale="zh_HK" value="中國聯通 20160422"/>
+                    <Description locale="zh_CN" value="中国联通 20160422"/>
+                </Report>
+                <Report id="-504174937">
+                    <Description locale="en"
+                        path="0762HK-P582207-16Mar17-V1.pdf" value="CHINA UNICOM 20170316"/>
+                    <Description locale="zh_HK" value="中國聯通 20170316"/>
+                    <Description locale="zh_CN" value="中国联通 20170316"/>
+                </Report>
+                <Report id="-1329048824">
+                    <Description locale="en"
+                        path="0762HK-P520596-30Jul16-V1.pdf" value="CHINA UNICOM 20160730"/>
+                    <Description locale="zh_HK" value="中國聯通 20160730"/>
+                    <Description locale="zh_CN" value="中国联通 20160730"/>
+                </Report>
+                <Report id="690600089">
+                    <Description locale="en"
+                        path="0762HK-P507575-19Apr16-V1.pdf" value="CHINA UNICOM 20160419"/>
+                    <Description locale="zh_HK" value="中國聯通 20160419"/>
+                    <Description locale="zh_CN" value="中国联通 20160419"/>
+                </Report>
+                <Report id="-2013381363">
+                    <Description locale="en"
+                        path="0762HK-P537787-01Dec16-V1.pdf" value="CHINA UNICOM 20161201"/>
+                    <Description locale="zh_HK" value="中國聯通 20161201"/>
+                    <Description locale="zh_CN" value="中国联通 20161201"/>
+                </Report>
+                <Report id="-137338830">
+                    <Description locale="en"
+                        path="0762HK-P503109-17Mar16-V2.pdf" value="CHINA UNICOM 20160317"/>
+                    <Description locale="zh_HK" value="中國聯通 20160317"/>
+                    <Description locale="zh_CN" value="中国联通 20160317"/>
+                </Report>
+                <Report id="1517386278">
+                    <Description locale="en"
+                        path="0762HK-P636648-22Apr17-V1.pdf" value="CHINA UNICOM 20170422"/>
+                    <Description locale="zh_HK" value="中國聯通 20170422"/>
+                    <Description locale="zh_CN" value="中国联通 20170422"/>
+                </Report>
+                <Report id="-2079565427">
+                    <Description locale="en"
+                        path="0762HK-P512502-19May16-V1.pdf" value="CHINA UNICOM 20160519"/>
+                    <Description locale="zh_HK" value="中國聯通 20160519"/>
+                    <Description locale="zh_CN" value="中国联通 20160519"/>
+                </Report>
+                <Report id="-476283502">
+                    <Description locale="en"
+                        path="0762HK-P531741-19Oct16-V1.pdf" value="CHINA UNICOM 20161019"/>
+                    <Description locale="zh_HK" value="中國聯通 20161019"/>
+                    <Description locale="zh_CN" value="中国联通 20161019"/>
+                </Report>
+                <Report id="619406075">
+                    <Description locale="en"
+                        path="0762HK-P523406-18Aug16-V1.pdf" value="CHINA UNICOM 20160818"/>
+                    <Description locale="zh_HK" value="中國聯通 20160818"/>
+                    <Description locale="zh_CN" value="中国联通 20160818"/>
+                </Report>
+                <Report id="-1513418076">
+                    <Description locale="en"
+                        path="0762HK-P518160-09Jul16-V1.pdf" value="CHINA UNICOM 20160709"/>
+                    <Description locale="zh_HK" value="中國聯通 20160709"/>
+                    <Description locale="zh_CN" value="中国联通 20160709"/>
+                </Report>
+                <Report id="-29959697">
+                    <Description locale="en"
+                        path="0762HK-P532187-22Oct16-V1.pdf" value="CHINA UNICOM 20161022"/>
+                    <Description locale="zh_HK" value="中國聯通 20161022"/>
+                    <Description locale="zh_CN" value="中国联通 20161022"/>
+                </Report>
+                <Report id="527198319">
+                    <Description locale="en"
+                        path="0762HK-P492147-13Jan16-V1.pdf" value="CHINA UNICOM 20160113"/>
+                    <Description locale="zh_HK" value="中國聯通 20160113"/>
+                    <Description locale="zh_CN" value="中国联通 20160113"/>
+                </Report>
+            </Company>
+            <Company id="00315HK">
+                <Description locale="en" value="SMARTONE TELECOM"/>
+                <Description locale="zh_HK" value="數碼通電訊"/>
+                <Description locale="zh_CN" value="数码通电讯"/>
+            </Company>
+        </Sector>
+        <Sector id="ELECTRIC">
+            <Description locale="en" value="Electric Utilities"/>
+            <Description locale="zh_HK" value="電力公用事業"/>
+            <Description locale="zh_CN" value="电力公用事业"/>
+            <Company id="00002HK">
+                <Description locale="en" value="CLP HOLDINGS"/>
+                <Description locale="zh_HK" value="中電控股"/>
+                <Description locale="zh_CN" value="中电控股"/>
+                <Report id="-1685045938">
+                    <Description locale="en"
+                        path="0002HK-P506732-11Apr16-V1.pdf" value="CLP HOLDINGS 20160411"/>
+                    <Description locale="zh_HK" value="中電控股 20160411"/>
+                    <Description locale="zh_CN" value="中电控股 20160411"/>
+                </Report>
+                <Report id="1087901809">
+                    <Description locale="en"
+                        path="0002HK-P563550-28Feb17-V2.pdf" value="CLP HOLDINGS 20170228"/>
+                    <Description locale="zh_HK" value="中電控股 20170228"/>
+                    <Description locale="zh_CN" value="中电控股 20170228"/>
+                </Report>
+                <Report id="-39147695">
+                    <Description locale="en"
+                        path="0002HK-P499343-01Mar16-V1.pdf" value="CLP HOLDINGS 20160301"/>
+                    <Description locale="zh_HK" value="中電控股 20160301"/>
+                    <Description locale="zh_CN" value="中电控股 20160301"/>
+                </Report>
+                <Report id="1794730262">
+                    <Description locale="en"
+                        path="0002HK-P512494-19May16-V1.pdf" value="CLP HOLDINGS 20160519"/>
+                    <Description locale="zh_HK" value="中電控股 20160519"/>
+                    <Description locale="zh_CN" value="中电控股 20160519"/>
+                </Report>
+                <Report id="1509843114">
+                    <Description locale="en"
+                        path="0002HK-P685492-20May17-V1.pdf" value="CLP HOLDINGS 20170520"/>
+                    <Description locale="zh_HK" value="中電控股 20170520"/>
+                    <Description locale="zh_CN" value="中电控股 20170520"/>
+                </Report>
+                <Report id="369350651">
+                    <Description locale="en"
+                        path="0002HK-P520872-02Aug16-V1.pdf" value="CLP HOLDINGS 20160802"/>
+                    <Description locale="zh_HK" value="中電控股 20160802"/>
+                    <Description locale="zh_CN" value="中电控股 20160802"/>
+                </Report>
+            </Company>
+            <Company id="00006HK">
+                <Description locale="en" value="POWER ASSETS"/>
+                <Description locale="zh_HK" value="電能實業"/>
+                <Description locale="zh_CN" value="电能实业"/>
+            </Company>
+            <Company id="00902HK">
+                <Description locale="en" value="HUANENG POWER-H"/>
+                <Description locale="zh_HK" value="華能國際"/>
+                <Description locale="zh_CN" value="华能国际电力股份有限公司"/>
+                <Report id="-608540982">
+                    <Description locale="en"
+                        path="0902HK-P532982-28Oct16-V1.pdf" value="HUANENG POWER-H 20161028"/>
+                    <Description locale="zh_HK" value="華能國際 20161028"/>
+                    <Description locale="zh_CN" value="华能国际电力股份有限公司 20161028"/>
+                </Report>
+                <Report id="-1365942972">
+                    <Description locale="en"
+                        path="0902HK-P532623-26Oct16-V1.pdf" value="HUANENG POWER-H 20161026"/>
+                    <Description locale="zh_HK" value="華能國際 20161026"/>
+                    <Description locale="zh_CN" value="华能国际电力股份有限公司 20161026"/>
+                </Report>
+                <Report id="2049324606">
+                    <Description locale="en"
+                        path="0902HK-P591894-22Mar17-V1.pdf" value="HUANENG POWER-H 20170322"/>
+                    <Description locale="zh_HK" value="華能國際 20170322"/>
+                    <Description locale="zh_CN" value="华能国际电力股份有限公司 20170322"/>
+                </Report>
+                <Report id="-692138354">
+                    <Description locale="en"
+                        path="0902HK-P516552-28Jun16-V1.pdf" value="HUANENG POWER-H 20160628"/>
+                    <Description locale="zh_HK" value="華能國際 20160628"/>
+                    <Description locale="zh_CN" value="华能国际电力股份有限公司 20160628"/>
+                </Report>
+                <Report id="1808830947">
+                    <Description locale="en"
+                        path="0902HK-P503946-23Mar16-V1.pdf" value="HUANENG POWER-H 20160323"/>
+                    <Description locale="zh_HK" value="華能國際 20160323"/>
+                    <Description locale="zh_CN" value="华能国际电力股份有限公司 20160323"/>
+                </Report>
+                <Report id="-689628725">
+                    <Description locale="en"
+                        path="0902HK-P518989-18Jul16-V1.pdf" value="HUANENG POWER-H 20160718"/>
+                    <Description locale="zh_HK" value="華能國際 20160718"/>
+                    <Description locale="zh_CN" value="华能国际电力股份有限公司 20160718"/>
+                </Report>
+                <Report id="975106533">
+                    <Description locale="en"
+                        path="0902HK-P644687-27Apr17-V1.pdf" value="HUANENG POWER-H 20170427"/>
+                    <Description locale="zh_HK" value="華能國際 20170427"/>
+                    <Description locale="zh_CN" value="华能国际电力股份有限公司 20170427"/>
+                </Report>
+                <Report id="-1945307063">
+                    <Description locale="en"
+                        path="0902HK-P531311-17Oct16-V1.pdf" value="HUANENG POWER-H 20161017"/>
+                    <Description locale="zh_HK" value="華能國際 20161017"/>
+                    <Description locale="zh_CN" value="华能国际电力股份有限公司 20161017"/>
+                </Report>
+            </Company>
+            <Company id="02638HK">
+                <Description locale="en" value="HK ELECTRIC INVE"/>
+                <Description locale="zh_HK" value="港燈-SS"/>
+                <Description locale="zh_CN" value="港灯-SS"/>
+            </Company>
+            <Company id="00916HK">
+                <Description locale="en" value="CHINA LONGYUAN-H"/>
+                <Description locale="zh_HK" value="龍源電力"/>
+                <Description locale="zh_CN" value="龙源电力"/>
+            </Company>
+            <Company id="02208HK">
+                <Description locale="en" value="XINJIANG GOLD-H"/>
+                <Description locale="zh_HK" value="金風科技"/>
+                <Description locale="zh_CN" value="金风科技"/>
+            </Company>
+            <Company id="00958HK">
+                <Description locale="en" value="HUANENG RENEWA-H"/>
+                <Description locale="zh_HK" value="華能新能源"/>
+                <Description locale="zh_CN" value="华能新能源"/>
+            </Company>
+            <Company id="03800HK">
+                <Description locale="en" value="GCL-POLY ENERGY"/>
+                <Description locale="zh_HK" value="保利協鑫能源"/>
+                <Description locale="zh_CN" value="保利协鑫能源"/>
+            </Company>
+            <Company id="00968HK">
+                <Description locale="en" value="XINYI SOLAR HLDS"/>
+                <Description locale="zh_HK" value="信義光能"/>
+                <Description locale="zh_CN" value="信义光能"/>
+            </Company>
+        </Sector>
+        <Sector id="HANDSET_COMP">
+            <Description locale="en" value="Handset Components"/>
+            <Description locale="zh_HK" value="手機零部件"/>
+            <Description locale="zh_CN" value="手机零部件"/>
+            <Company id="02018HK">
+                <Description locale="en" value="AAC TECHNOLOGIES"/>
+                <Description locale="zh_HK" value="瑞聲科技"/>
+                <Description locale="zh_CN" value="瑞声科技"/>
+                <Report id="-1381472672">
+                    <Description locale="en"
+                        path="2018HK-P671777-15May17-V1.pdf" value="AAC TECHNOLOGIES 20170515"/>
+                    <Description locale="zh_HK" value="瑞聲科技 20170515"/>
+                    <Description locale="zh_CN" value="瑞声科技 20170515"/>
+                </Report>
+                <Report id="1321655407">
+                    <Description locale="en"
+                        path="2018HK-P713369-07Jun17-V1.pdf" value="AAC TECHNOLOGIES 20170607"/>
+                    <Description locale="zh_HK" value="瑞聲科技 20170607"/>
+                    <Description locale="zh_CN" value="瑞声科技 20170607"/>
+                </Report>
+                <Report id="1024507820">
+                    <Description locale="en"
+                        path="2018HK-P530126-06Oct16-V1.pdf" value="AAC TECHNOLOGIES 20161006"/>
+                    <Description locale="zh_HK" value="瑞聲科技 20161006"/>
+                    <Description locale="zh_CN" value="瑞声科技 20161006"/>
+                </Report>
+                <Report id="1241107079">
+                    <Description locale="en"
+                        path="2018HK-P592673-23Mar17-V1.pdf" value="AAC TECHNOLOGIES 20170323"/>
+                    <Description locale="zh_HK" value="瑞聲科技 20170323"/>
+                    <Description locale="zh_CN" value="瑞声科技 20170323"/>
+                </Report>
+                <Report id="1285211085">
+                    <Description locale="en"
+                        path="2018HK-P504405-24Mar16-V1.pdf" value="AAC TECHNOLOGIES 20160324"/>
+                    <Description locale="zh_HK" value="瑞聲科技 20160324"/>
+                    <Description locale="zh_CN" value="瑞声科技 20160324"/>
+                </Report>
+                <Report id="973875963">
+                    <Description locale="en"
+                        path="2018HK-P525406-29Aug16-V1.pdf" value="AAC TECHNOLOGIES 20160829"/>
+                    <Description locale="zh_HK" value="瑞聲科技 20160829"/>
+                    <Description locale="zh_CN" value="瑞声科技 20160829"/>
+                </Report>
+                <Report id="-574038096">
+                    <Description locale="en"
+                        path="2018HK-P512453-19May16-V1.pdf" value="AAC TECHNOLOGIES 20160519"/>
+                    <Description locale="zh_HK" value="瑞聲科技 20160519"/>
+                    <Description locale="zh_CN" value="瑞声科技 20160519"/>
+                </Report>
+                <Report id="758892980">
+                    <Description locale="en"
+                        path="2018HK-P535649-15Nov16-V1.pdf" value="AAC TECHNOLOGIES 20161115"/>
+                    <Description locale="zh_HK" value="瑞聲科技 20161115"/>
+                    <Description locale="zh_CN" value="瑞声科技 20161115"/>
+                </Report>
+            </Company>
+            <Company id="02382HK">
+                <Description locale="en" value="SUNNY OPTICAL"/>
+                <Description locale="zh_HK" value="舜宇光學科技"/>
+                <Description locale="zh_CN" value="舜宇光学科技"/>
+            </Company>
+        </Sector>
+        <Sector id="OIL_GAS">
+            <Description locale="en" value="Oil &amp; Gas"/>
+            <Description locale="zh_HK" value="石油及天然氣"/>
+            <Description locale="zh_CN" value="石油及天然气"/>
+            <Company id="02883HK">
+                <Description locale="en" value="CHINA OILFIELD-H"/>
+                <Description locale="zh_HK" value="中海油服"/>
+                <Description locale="zh_CN" value="中海油服"/>
+                <Report id="-1310514281">
+                    <Description locale="en"
+                        path="2883HK-P628467-18Apr17-V1.pdf" value="CHINA OILFIELD-H 20170418"/>
+                    <Description locale="zh_HK" value="中海油服 20170418"/>
+                    <Description locale="zh_CN" value="中海油服 20170418"/>
+                </Report>
+                <Report id="536822249">
+                    <Description locale="en"
+                        path="2883HK-P496238-05Feb16-V1.pdf" value="CHINA OILFIELD-H 20160205"/>
+                    <Description locale="zh_HK" value="中海油服 20160205"/>
+                    <Description locale="zh_CN" value="中海油服 20160205"/>
+                </Report>
+                <Report id="-1067243657">
+                    <Description locale="en"
+                        path="2883HK-P525878-31Aug16-V1.pdf" value="CHINA OILFIELD-H 20160831"/>
+                    <Description locale="zh_HK" value="中海油服 20160831"/>
+                    <Description locale="zh_CN" value="中海油服 20160831"/>
+                </Report>
+                <Report id="-813271140">
+                    <Description locale="en"
+                        path="2883HK-P535700-15Nov16-V1.pdf" value="CHINA OILFIELD-H 20161115"/>
+                    <Description locale="zh_HK" value="中海油服 20161115"/>
+                    <Description locale="zh_CN" value="中海油服 20161115"/>
+                </Report>
+                <Report id="126010435">
+                    <Description locale="en"
+                        path="2883HK-P500081-08Mar16-V1.pdf" value="CHINA OILFIELD-H 20160308"/>
+                    <Description locale="zh_HK" value="中海油服 20160308"/>
+                    <Description locale="zh_CN" value="中海油服 20160308"/>
+                </Report>
+                <Report id="-607086894">
+                    <Description locale="en"
+                        path="2883HK-P509827-29Apr16-V1.pdf" value="CHINA OILFIELD-H 20160429"/>
+                    <Description locale="zh_HK" value="中海油服 20160429"/>
+                    <Description locale="zh_CN" value="中海油服 20160429"/>
+                </Report>
+                <Report id="2009777144">
+                    <Description locale="en"
+                        path="2883HK-P505020-30Mar16-V1.pdf" value="CHINA OILFIELD-H 20160330"/>
+                    <Description locale="zh_HK" value="中海油服 20160330"/>
+                    <Description locale="zh_CN" value="中海油服 20160330"/>
+                </Report>
+                <Report id="-1876928781">
+                    <Description locale="en"
+                        path="2883HK-P519868-26Jul16-V1.pdf" value="CHINA OILFIELD-H 20160726"/>
+                    <Description locale="zh_HK" value="中海油服 20160726"/>
+                    <Description locale="zh_CN" value="中海油服 20160726"/>
+                </Report>
+                <Report id="1487025869">
+                    <Description locale="en"
+                        path="2883HK-P533674-31Oct16-V1.pdf" value="CHINA OILFIELD-H 20161031"/>
+                    <Description locale="zh_HK" value="中海油服 20161031"/>
+                    <Description locale="zh_CN" value="中海油服 20161031"/>
+                </Report>
+            </Company>
+            <Company id="00857HK">
+                <Description locale="en" value="PETROCHINA-H"/>
+                <Description locale="zh_HK" value="中國石油"/>
+                <Description locale="zh_CN" value="中国石油"/>
+                <Report id="861071688">
+                    <Description locale="en"
+                        path="0857HK-P515770-20Jun16-V1.pdf" value="PETROCHINA-H 20160620"/>
+                    <Description locale="zh_HK" value="中國石油 20160620"/>
+                    <Description locale="zh_CN" value="中国石油 20160620"/>
+                </Report>
+                <Report id="-917643937">
+                    <Description locale="en"
+                        path="0857HK-P533679-31Oct16-V1.pdf" value="PETROCHINA-H 20161031"/>
+                    <Description locale="zh_HK" value="中國石油 20161031"/>
+                    <Description locale="zh_CN" value="中国石油 20161031"/>
+                </Report>
+                <Report id="145446467">
+                    <Description locale="en"
+                        path="0857HK-P525281-27Aug16-V1.pdf" value="PETROCHINA-H 20160827"/>
+                    <Description locale="zh_HK" value="中國石油 20160827"/>
+                    <Description locale="zh_CN" value="中国石油 20160827"/>
+                </Report>
+                <Report id="1380762058">
+                    <Description locale="en"
+                        path="0857HK-P509738-29Apr16-V1.pdf" value="PETROCHINA-H 20160429"/>
+                    <Description locale="zh_HK" value="中國石油 20160429"/>
+                    <Description locale="zh_CN" value="中国石油 20160429"/>
+                </Report>
+                <Report id="76523164">
+                    <Description locale="en"
+                        path="0857HK-P525044-25Aug16-V1.pdf" value="PETROCHINA-H 20160825"/>
+                    <Description locale="zh_HK" value="中國石油 20160825"/>
+                    <Description locale="zh_CN" value="中国石油 20160825"/>
+                </Report>
+                <Report id="314746175">
+                    <Description locale="en"
+                        path="0857HK-P506729-12Apr16-V1.pdf" value="PETROCHINA-H 20160412"/>
+                    <Description locale="zh_HK" value="中國石油 20160412"/>
+                    <Description locale="zh_CN" value="中国石油 20160412"/>
+                </Report>
+                <Report id="-1612640359">
+                    <Description locale="en"
+                        path="0857HK-P649092-29Apr17-V1.pdf" value="PETROCHINA-H 20170429"/>
+                    <Description locale="zh_HK" value="中國石油 20170429"/>
+                    <Description locale="zh_CN" value="中国石油 20170429"/>
+                </Report>
+                <Report id="1304569258">
+                    <Description locale="en"
+                        path="0857HK-P608106-03Apr17-V1.pdf" value="PETROCHINA-H 20170403"/>
+                    <Description locale="zh_HK" value="中國石油 20170403"/>
+                    <Description locale="zh_CN" value="中国石油 20170403"/>
+                </Report>
+                <Report id="-565662810">
+                    <Description locale="en"
+                        path="0857HK-P622561-11Apr17-V1.pdf" value="PETROCHINA-H 20170411"/>
+                    <Description locale="zh_HK" value="中國石油 20170411"/>
+                    <Description locale="zh_CN" value="中国石油 20170411"/>
+                </Report>
+                <Report id="-1072619503">
+                    <Description locale="en"
+                        path="0857HK-P506100-06Apr16-V1.pdf" value="PETROCHINA-H 20160406"/>
+                    <Description locale="zh_HK" value="中國石油 20160406"/>
+                    <Description locale="zh_CN" value="中国石油 20160406"/>
+                </Report>
+                <Report id="-1382058777">
+                    <Description locale="en"
+                        path="0857HK-P512468-19May16-V1.pdf" value="PETROCHINA-H 20160519"/>
+                    <Description locale="zh_HK" value="中國石油 20160519"/>
+                    <Description locale="zh_CN" value="中国石油 20160519"/>
+                </Report>
+                <Report id="1236528498">
+                    <Description locale="en"
+                        path="0857HK-P506100-24Mar16-V1.pdf" value="PETROCHINA-H 20160324"/>
+                    <Description locale="zh_HK" value="中國石油 20160324"/>
+                    <Description locale="zh_CN" value="中国石油 20160324"/>
+                </Report>
+            </Company>
+            <Company id="00386HK">
+                <Description locale="en" value="SINOPEC CORP-H"/>
+                <Description locale="zh_HK" value="中國石化"/>
+                <Description locale="zh_CN" value="中国石化"/>
+                <Report id="1868742347">
+                    <Description locale="en"
+                        path="0386HK-P505617-03Apr16-V1.pdf" value="SINOPEC CORP-H 20160403"/>
+                    <Description locale="zh_HK" value="中國石化 20160403"/>
+                    <Description locale="zh_CN" value="中国石化 20160403"/>
+                </Report>
+                <Report id="637896291">
+                    <Description locale="en"
+                        path="0386HK-P521240-03Aug16-V1.pdf" value="SINOPEC CORP-H 20160803"/>
+                    <Description locale="zh_HK" value="中國石化 20160803"/>
+                    <Description locale="zh_CN" value="中国石化 20160803"/>
+                </Report>
+                <Report id="735563412">
+                    <Description locale="en"
+                        path="0386HK-P563271-27Feb17-V1.pdf" value="SINOPEC CORP-H 20170227"/>
+                    <Description locale="zh_HK" value="中國石化 20170227"/>
+                    <Description locale="zh_CN" value="中国石化 20170227"/>
+                </Report>
+                <Report id="-1641073391">
+                    <Description locale="en"
+                        path="0386HK-P508413-22Apr16-V1.pdf" value="SINOPEC CORP-H 20160422"/>
+                    <Description locale="zh_HK" value="中國石化 20160422"/>
+                    <Description locale="zh_CN" value="中国石化 20160422"/>
+                </Report>
+                <Report id="1531594127">
+                    <Description locale="en"
+                        path="0386HK-P533219-29Oct16-V1.pdf" value="SINOPEC CORP-H 20161029"/>
+                    <Description locale="zh_HK" value="中國石化 20161029"/>
+                    <Description locale="zh_CN" value="中国石化 20161029"/>
+                </Report>
+                <Report id="1334847194">
+                    <Description locale="en"
+                        path="0386HK-P509742-29Apr16-V1.pdf" value="SINOPEC CORP-H 20160429"/>
+                    <Description locale="zh_HK" value="中國石化 20160429"/>
+                    <Description locale="zh_CN" value="中国石化 20160429"/>
+                </Report>
+                <Report id="1328460400">
+                    <Description locale="en"
+                        path="0386HK-P519515-22Jul16-V1.pdf" value="SINOPEC CORP-H 20160722"/>
+                    <Description locale="zh_HK" value="中國石化 20160722"/>
+                    <Description locale="zh_CN" value="中国石化 20160722"/>
+                </Report>
+                <Report id="-995242409">
+                    <Description locale="en"
+                        path="0386HK-P525657-30Aug16-V1.pdf" value="SINOPEC CORP-H 20160830"/>
+                    <Description locale="zh_HK" value="中國石化 20160830"/>
+                    <Description locale="zh_CN" value="中国石化 20160830"/>
+                </Report>
+                <Report id="1073417160">
+                    <Description locale="en"
+                        path="0386HK-P504948-30Mar16-V1.pdf" value="SINOPEC CORP-H 20160330"/>
+                    <Description locale="zh_HK" value="中國石化 20160330"/>
+                    <Description locale="zh_CN" value="中国石化 20160330"/>
+                </Report>
+                <Report id="60939415">
+                    <Description locale="en"
+                        path="0386HK-P508396-22Apr16-V1.pdf" value="SINOPEC CORP-H 20160422"/>
+                    <Description locale="zh_HK" value="中國石化 20160422"/>
+                    <Description locale="zh_CN" value="中国石化 20160422"/>
+                </Report>
+                <Report id="-881253105">
+                    <Description locale="en"
+                        path="0386HK-P512492-20May16-V1.pdf" value="SINOPEC CORP-H 20160520"/>
+                    <Description locale="zh_HK" value="中國石化 20160520"/>
+                    <Description locale="zh_CN" value="中国石化 20160520"/>
+                </Report>
+            </Company>
+            <Company id="00883HK">
+                <Description locale="en" value="CNOOC"/>
+                <Description locale="zh_HK" value="中國海洋石油"/>
+                <Description locale="zh_CN" value="中国海洋石油"/>
+                <Report id="-87506826">
+                    <Description locale="en"
+                        path="0883HK-P595390-25Mar17-V1.pdf" value="CNOOC 20170325"/>
+                    <Description locale="zh_HK" value="中國海洋石油 20170325"/>
+                    <Description locale="zh_CN" value="中国海洋石油 20170325"/>
+                </Report>
+                <Report id="-1889166968">
+                    <Description locale="en"
+                        path="0883HK-P543959-20Jan17-V1.pdf" value="CNOOC 20170120"/>
+                    <Description locale="zh_HK" value="中國海洋石油 20170120"/>
+                    <Description locale="zh_CN" value="中国海洋石油 20170120"/>
+                </Report>
+                <Report id="-1191736354">
+                    <Description locale="en"
+                        path="0883HK-P521573-03Aug16-V1.pdf" value="CNOOC 20160803"/>
+                    <Description locale="zh_HK" value="中國海洋石油 20160803"/>
+                    <Description locale="zh_CN" value="中国海洋石油 20160803"/>
+                </Report>
+                <Report id="-441263987">
+                    <Description locale="en"
+                        path="0883HK-P538927-08Dec16-V1.pdf" value="CNOOC 20161208"/>
+                    <Description locale="zh_HK" value="中國海洋石油 20161208"/>
+                    <Description locale="zh_CN" value="中国海洋石油 20161208"/>
+                </Report>
+                <Report id="-858208706">
+                    <Description locale="en"
+                        path="0883HK-P509692-29Apr16-V1.pdf" value="CNOOC 20160429"/>
+                    <Description locale="zh_HK" value="中國海洋石油 20160429"/>
+                    <Description locale="zh_CN" value="中国海洋石油 20160429"/>
+                </Report>
+                <Report id="1639232525">
+                    <Description locale="en"
+                        path="0883HK-P504606-25Mar16-V1.pdf" value="CNOOC 20160325"/>
+                    <Description locale="zh_HK" value="中國海洋石油 20160325"/>
+                    <Description locale="zh_CN" value="中国海洋石油 20160325"/>
+                </Report>
+                <Report id="-646322184">
+                    <Description locale="en"
+                        path="0883HK-P515350-16Jun16-V1.pdf" value="CNOOC 20160616"/>
+                    <Description locale="zh_HK" value="中國海洋石油 20160616"/>
+                    <Description locale="zh_CN" value="中国海洋石油 20160616"/>
+                </Report>
+                <Report id="1062150646">
+                    <Description locale="en"
+                        path="0883HK-P506224-07Apr16-V1.pdf" value="CNOOC 20160407"/>
+                    <Description locale="zh_HK" value="中國海洋石油 20160407"/>
+                    <Description locale="zh_CN" value="中国海洋石油 20160407"/>
+                </Report>
+                <Report id="866917851">
+                    <Description locale="en"
+                        path="0883HK-P524953-25Aug16-V1.pdf" value="CNOOC 20160825"/>
+                    <Description locale="zh_HK" value="中國海洋石油 20160825"/>
+                    <Description locale="zh_CN" value="中国海洋石油 20160825"/>
+                </Report>
+                <Report id="-877462551">
+                    <Description locale="en"
+                        path="0883HK-P510556-05May16-V1.pdf" value="CNOOC 20160505"/>
+                    <Description locale="zh_HK" value="中國海洋石油 20160505"/>
+                    <Description locale="zh_CN" value="中国海洋石油 20160505"/>
+                </Report>
+                <Report id="843617240">
+                    <Description locale="en"
+                        path="0883HK-P631270-19Apr17-V1.pdf" value="CNOOC 20170419"/>
+                    <Description locale="zh_HK" value="中國海洋石油 20170419"/>
+                    <Description locale="zh_CN" value="中国海洋石油 20170419"/>
+                </Report>
+                <Report id="510080751">
+                    <Description locale="en"
+                        path="0883HK-P648437-28Apr17-V1.pdf" value="CNOOC 20170428"/>
+                    <Description locale="zh_HK" value="中國海洋石油 20170428"/>
+                    <Description locale="zh_CN" value="中国海洋石油 20170428"/>
+                </Report>
+                <Report id="-1971468434">
+                    <Description locale="en"
+                        path="0883HK-P532886-27Oct16-V1.pdf" value="CNOOC 20161027"/>
+                    <Description locale="zh_HK" value="中國海洋石油 20161027"/>
+                    <Description locale="zh_CN" value="中国海洋石油 20161027"/>
+                </Report>
+            </Company>
+        </Sector>
+        <Sector id="FOOD_PRODUCTS">
+            <Description locale="en" value="Food Products"/>
+            <Description locale="zh_HK" value="食品"/>
+            <Description locale="zh_CN" value="食品"/>
+            <Company id="00151HK">
+                <Description locale="en" value="WANT WANT CHINA"/>
+                <Description locale="zh_HK" value="中國旺旺"/>
+                <Description locale="zh_CN" value="中国旺旺"/>
+                <Report id="490474168">
+                    <Description locale="en"
+                        path="0151HK-P512497-19May16-V1.pdf" value="WANT WANT CHINA 20160519"/>
+                    <Description locale="zh_HK" value="中國旺旺 20160519"/>
+                    <Description locale="zh_CN" value="中国旺旺 20160519"/>
+                </Report>
+                <Report id="1954173303">
+                    <Description locale="en"
+                        path="0151HK-P502998-16Mar16-V1.pdf" value="WANT WANT CHINA 20160316"/>
+                    <Description locale="zh_HK" value="中國旺旺 20160316"/>
+                    <Description locale="zh_CN" value="中国旺旺 20160316"/>
+                </Report>
+                <Report id="381282560">
+                    <Description locale="en"
+                        path="0151HK-P529501-29Sep16-V1.pdf" value="WANT WANT CHINA 20160929"/>
+                    <Description locale="zh_HK" value="中國旺旺 20160929"/>
+                    <Description locale="zh_CN" value="中国旺旺 20160929"/>
+                </Report>
+            </Company>
+            <Company id="02319HK">
+                <Description locale="en" value="MENGNIU DAIRY"/>
+                <Description locale="zh_HK" value="蒙牛乳業"/>
+                <Description locale="zh_CN" value="蒙牛乳业"/>
+                <Report id="-1136992435">
+                    <Description locale="en"
+                        path="2319HK-P530298-07Oct16-V1.pdf" value="MENGNIU DAIRY 20161007"/>
+                    <Description locale="zh_HK" value="蒙牛乳業 20161007"/>
+                    <Description locale="zh_CN" value="蒙牛乳业 20161007"/>
+                </Report>
+            </Company>
+        </Sector>
+        <Sector id="GAS">
+            <Description locale="en" value="Gas Utilities"/>
+            <Description locale="zh_HK" value="燃氣公用事業"/>
+            <Description locale="zh_CN" value="燃气公用事业"/>
+            <Company id="00003HK">
+                <Description locale="en" value="HONG KG CHINA GS"/>
+                <Description locale="zh_HK" value="香港中華煤氣"/>
+                <Description locale="zh_CN" value="香港中华煤气"/>
+            </Company>
+            <Company id="01193HK">
+                <Description locale="en" value="CHINA RES GAS"/>
+                <Description locale="zh_HK" value="華潤燃氣"/>
+                <Description locale="zh_CN" value="华润燃气"/>
+            </Company>
+        </Sector>
+        <Sector id="HEALTH_CARE">
+            <Description locale="en" value="Health Care"/>
+            <Description locale="zh_HK" value="醫療保健"/>
+            <Description locale="zh_CN" value="医疗保健"/>
+            <Company id="01099HK">
+                <Description locale="en" value="SINOPHARM-H"/>
+                <Description locale="zh_HK" value="國藥控股"/>
+                <Description locale="zh_CN" value="国药控股"/>
+            </Company>
+            <Company id="02607HK">
+                <Description locale="en" value="SHANGHAI PHARM-H"/>
+                <Description locale="zh_HK" value="上海醫藥"/>
+                <Description locale="zh_CN" value="上海医药"/>
+            </Company>
+        </Sector>
+        <Sector id="GAMING">
+            <Description locale="en" value="Gaming"/>
+            <Description locale="zh_HK" value="博彩娛樂"/>
+            <Description locale="zh_CN" value="博彩娱乐"/>
+            <Company id="01928HK">
+                <Description locale="en" value="SANDS CHINA LTD"/>
+                <Description locale="zh_HK" value="金沙中國有限公司"/>
+                <Description locale="zh_CN" value="金沙中国有限公司"/>
+                <Report id="1926622519">
+                    <Description locale="en"
+                        path="1928HK-P534471-04Nov16-V1.pdf" value="SANDS CHINA LTD 20161104"/>
+                    <Description locale="zh_HK" value="金沙中國有限公司 20161104"/>
+                    <Description locale="zh_CN" value="金沙中国有限公司 20161104"/>
+                </Report>
+                <Report id="587030539">
+                    <Description locale="en"
+                        path="1928HK-P508097-21Apr16-V1.pdf" value="SANDS CHINA LTD 20160421"/>
+                    <Description locale="zh_HK" value="金沙中國有限公司 20160421"/>
+                    <Description locale="zh_CN" value="金沙中国有限公司 20160421"/>
+                </Report>
+                <Report id="-1948299577">
+                    <Description locale="en"
+                        path="1928HK-P519889-26Jul16-V1.pdf" value="SANDS CHINA LTD 20160726"/>
+                    <Description locale="zh_HK" value="金沙中國有限公司 20160726"/>
+                    <Description locale="zh_CN" value="金沙中国有限公司 20160726"/>
+                </Report>
+                <Report id="-1303222908">
+                    <Description locale="en"
+                        path="1928HK-P645048-27Apr17-V1.pdf" value="SANDS CHINA LTD 20170427"/>
+                    <Description locale="zh_HK" value="金沙中國有限公司 20170427"/>
+                    <Description locale="zh_CN" value="金沙中国有限公司 20170427"/>
+                </Report>
+                <Report id="-323831482">
+                    <Description locale="en"
+                        path="1928HK-P494569-28Jan16-V1.pdf" value="SANDS CHINA LTD 20160128"/>
+                    <Description locale="zh_HK" value="金沙中國有限公司 20160128"/>
+                    <Description locale="zh_CN" value="金沙中国有限公司 20160128"/>
+                </Report>
+                <Report id="-43597888">
+                    <Description locale="en"
+                        path="1928HK-P527829-14Sep16-V1.pdf" value="SANDS CHINA LTD 20160914"/>
+                    <Description locale="zh_HK" value="金沙中國有限公司 20160914"/>
+                    <Description locale="zh_CN" value="金沙中国有限公司 20160914"/>
+                </Report>
+            </Company>
+            <Company id="00027HK">
+                <Description locale="en" value="GALAXY ENTERTAIN"/>
+                <Description locale="zh_HK" value="銀河娛樂"/>
+                <Description locale="zh_CN" value="银河娱乐"/>
+                <Report id="-1788114948">
+                    <Description locale="en"
+                        path="0027HK-P509351-28Apr16-V2.pdf" value="GALAXY ENTERTAIN 20160428"/>
+                    <Description locale="zh_HK" value="銀河娛樂 20160428"/>
+                    <Description locale="zh_CN" value="银河娱乐 20160428"/>
+                </Report>
+                <Report id="1998492031">
+                    <Description locale="en"
+                        path="0027HK-P498706-25Feb16-V1.pdf" value="GALAXY ENTERTAIN 20160225"/>
+                    <Description locale="zh_HK" value="銀河娛樂 20160225"/>
+                    <Description locale="zh_CN" value="银河娱乐 20160225"/>
+                </Report>
+                <Report id="-1525340823">
+                    <Description locale="en"
+                        path="0027HK-P532789-26Oct16-V1.pdf" value="GALAXY ENTERTAIN 20161026"/>
+                    <Description locale="zh_HK" value="銀河娛樂 20161026"/>
+                    <Description locale="zh_CN" value="银河娱乐 20161026"/>
+                </Report>
+                <Report id="-62924120">
+                    <Description locale="en"
+                        path="0027HK-P659915-08May17-V1.pdf" value="GALAXY ENTERTAIN 20170508"/>
+                    <Description locale="zh_HK" value="銀河娛樂 20170508"/>
+                    <Description locale="zh_CN" value="银河娱乐 20170508"/>
+                </Report>
+                <Report id="-618068398">
+                    <Description locale="en"
+                        path="0027HK-P657043-05May17-V2.pdf" value="GALAXY ENTERTAIN 20170505"/>
+                    <Description locale="zh_HK" value="銀河娛樂 20170505"/>
+                    <Description locale="zh_CN" value="银河娱乐 20170505"/>
+                </Report>
+            </Company>
+            <Company id="01128HK">
+                <Description locale="en" value="WYNN MACAU LTD"/>
+                <Description locale="zh_HK" value="永利澳門"/>
+                <Description locale="zh_CN" value="永利澳门"/>
+            </Company>
+            <Company id="02282HK">
+                <Description locale="en" value="MGM CHINA"/>
+                <Description locale="zh_HK" value="美高梅中國"/>
+                <Description locale="zh_CN" value="美高梅中国"/>
+            </Company>
+            <Company id="00880HK">
+                <Description locale="en" value="SJM HOLDINGS LTD"/>
+                <Description locale="zh_HK" value="澳博控股"/>
+                <Description locale="zh_CN" value="澳博控股"/>
+            </Company>
+            <Company id="00200HK">
+                <Description locale="en" value="MELCO INTL DEV"/>
+                <Description locale="zh_HK" value="新濠國際發展"/>
+                <Description locale="zh_CN" value="新濠国际发展"/>
+            </Company>
+        </Sector>
+        <Sector id="INDEP_POWER_PRODUCER">
+            <Description locale="en" value="Independent Power Producers"/>
+            <Description locale="zh_HK" value="獨立電力生產商"/>
+            <Description locale="zh_CN" value="独立电力生产商"/>
+            <Company id="00836HK">
+                <Description locale="en" value="CHINA RES POWER"/>
+                <Description locale="zh_HK" value="華潤電力"/>
+                <Description locale="zh_CN" value="华润电力"/>
+            </Company>
+        </Sector>
+        <Sector id="INSURANCE">
+            <Description locale="en" value="Insurance"/>
+            <Description locale="zh_HK" value="保險"/>
+            <Description locale="zh_CN" value="保险"/>
+            <Company id="02628HK">
+                <Description locale="en" value="CHINA LIFE-H"/>
+                <Description locale="zh_HK" value="中國人壽"/>
+                <Description locale="zh_CN" value="中国人寿"/>
+                <Report id="-1834421568">
+                    <Description locale="en"
+                        path="2628HK-P499529-02Mar16-V1.pdf" value="CHINA LIFE-H 20160302"/>
+                    <Description locale="zh_HK" value="中國人壽 20160302"/>
+                    <Description locale="zh_CN" value="中国人寿 20160302"/>
+                </Report>
+                <Report id="-1867014423">
+                    <Description locale="en"
+                        path="2628HK-P504525-24Mar16-V1.pdf" value="CHINA LIFE-H 20160324"/>
+                    <Description locale="zh_HK" value="中國人壽 20160324"/>
+                    <Description locale="zh_CN" value="中国人寿 20160324"/>
+                </Report>
+                <Report id="1004597848">
+                    <Description locale="en"
+                        path="2628HK-P525104-26Aug16-V1.pdf" value="CHINA LIFE-H 20160826"/>
+                    <Description locale="zh_HK" value="中國人壽 20160826"/>
+                    <Description locale="zh_CN" value="中国人寿 20160826"/>
+                </Report>
+            </Company>
+            <Company id="02318HK">
+                <Description locale="en" value="PING AN"/>
+                <Description locale="zh_HK" value="中國平安"/>
+                <Description locale="zh_CN" value="中国平安"/>
+                <Report id="-2033593879">
+                    <Description locale="en"
+                        path="2318HK-P527925-14Sep16-V1.pdf" value="PING AN 20160914"/>
+                    <Description locale="zh_HK" value="中國平安 20160914"/>
+                    <Description locale="zh_CN" value="中国平安 20160914"/>
+                </Report>
+                <Report id="-1378644993">
+                    <Description locale="en"
+                        path="2318HK-P523452-18Aug16-V1.pdf" value="PING AN 20160818"/>
+                    <Description locale="zh_HK" value="中國平安 20160818"/>
+                    <Description locale="zh_CN" value="中国平安 20160818"/>
+                </Report>
+                <Report id="-109586801">
+                    <Description locale="en"
+                        path="2318HK-P502984-16Mar16-V1.pdf" value="PING AN 20160316"/>
+                    <Description locale="zh_HK" value="中國平安 20160316"/>
+                    <Description locale="zh_CN" value="中国平安 20160316"/>
+                </Report>
+                <Report id="-505133226">
+                    <Description locale="en"
+                        path="2318HK-P507573-19Apr16-V1.pdf" value="PING AN 20160419"/>
+                    <Description locale="zh_HK" value="中國平安 20160419"/>
+                    <Description locale="zh_CN" value="中国平安 20160419"/>
+                </Report>
+                <Report id="1835002066">
+                    <Description locale="en"
+                        path="2318HK-P509114-27Apr16-V1.pdf" value="PING AN 20160427"/>
+                    <Description locale="zh_HK" value="中國平安 20160427"/>
+                    <Description locale="zh_CN" value="中国平安 20160427"/>
+                </Report>
+                <Report id="740075336">
+                    <Description locale="en"
+                        path="2318HK-P512470-20May16-V1.pdf" value="PING AN 20160520"/>
+                    <Description locale="zh_HK" value="中國平安 20160520"/>
+                    <Description locale="zh_CN" value="中国平安 20160520"/>
+                </Report>
+            </Company>
+            <Company id="01299HK">
+                <Description locale="en" value="AIA"/>
+                <Description locale="zh_HK" value="友邦保險"/>
+                <Description locale="zh_CN" value="友邦保险"/>
+                <Report id="-1375969608">
+                    <Description locale="en"
+                        path="1299HK-P516397-27Jun16-V1.pdf" value="AIA 20160627"/>
+                    <Description locale="zh_HK" value="友邦保險 20160627"/>
+                    <Description locale="zh_CN" value="友邦保险 20160627"/>
+                </Report>
+                <Report id="-86643822">
+                    <Description locale="en"
+                        path="1299HK-P520311-28Jul16-V1.pdf" value="AIA 20160728"/>
+                    <Description locale="zh_HK" value="友邦保險 20160728"/>
+                    <Description locale="zh_CN" value="友邦保险 20160728"/>
+                </Report>
+                <Report id="1123897430">
+                    <Description locale="en"
+                        path="1299HK-P645098-27Apr17-V1.pdf" value="AIA 20170427"/>
+                    <Description locale="zh_HK" value="友邦保險 20170427"/>
+                    <Description locale="zh_CN" value="友邦保险 20170427"/>
+                </Report>
+                <Report id="1126538351">
+                    <Description locale="en"
+                        path="1299HK-P502725-14Mar16-V1.pdf" value="AIA 20160314"/>
+                    <Description locale="zh_HK" value="友邦保險 20160314"/>
+                    <Description locale="zh_CN" value="友邦保险 20160314"/>
+                </Report>
+                <Report id="-401678046">
+                    <Description locale="en"
+                        path="1299HK-P561989-25Feb17-V1.pdf" value="AIA 20170225"/>
+                    <Description locale="zh_HK" value="友邦保險 20170225"/>
+                    <Description locale="zh_CN" value="友邦保险 20170225"/>
+                </Report>
+                <Report id="-272177051">
+                    <Description locale="en"
+                        path="1299HK-P495668-03Feb16-V1.pdf" value="AIA 20160203"/>
+                    <Description locale="zh_HK" value="友邦保險 20160203"/>
+                    <Description locale="zh_CN" value="友邦保险 20160203"/>
+                </Report>
+                <Report id="1312656335">
+                    <Description locale="en"
+                        path="1299HK-P531103-14Oct16-V1.pdf" value="AIA 20161014"/>
+                    <Description locale="zh_HK" value="友邦保險 20161014"/>
+                    <Description locale="zh_CN" value="友邦保险 20161014"/>
+                </Report>
+                <Report id="-1374679667">
+                    <Description locale="en"
+                        path="1299HK-P498730-26Feb16-V1.pdf" value="AIA 20160226"/>
+                    <Description locale="zh_HK" value="友邦保險 20160226"/>
+                    <Description locale="zh_CN" value="友邦保险 20160226"/>
+                </Report>
+                <Report id="-971376862">
+                    <Description locale="en"
+                        path="1299HK-P495848-04Feb16-V1.pdf" value="AIA 20160204"/>
+                    <Description locale="zh_HK" value="友邦保險 20160204"/>
+                    <Description locale="zh_CN" value="友邦保险 20160204"/>
+                </Report>
+                <Report id="430335430">
+                    <Description locale="en"
+                        path="1299HK-P577708-13Mar17-V1.pdf" value="AIA 20170313"/>
+                    <Description locale="zh_HK" value="友邦保險 20170313"/>
+                    <Description locale="zh_CN" value="友邦保险 20170313"/>
+                </Report>
+                <Report id="1763959122">
+                    <Description locale="en"
+                        path="1299HK-P508269-22Apr16-V1.pdf" value="AIA 20160422"/>
+                    <Description locale="zh_HK" value="友邦保險 20160422"/>
+                    <Description locale="zh_CN" value="友邦保险 20160422"/>
+                </Report>
+            </Company>
+            <Company id="02601HK">
+                <Description locale="en" value="CHINA PACIFIC-H"/>
+                <Description locale="zh_HK" value="中國太保"/>
+                <Description locale="zh_CN" value="中国太保"/>
+                <Report id="-1441338235">
+                    <Description locale="en"
+                        path="2601HK-P525396-29Aug16-V1.pdf" value="CHINA PACIFIC-H 20160829"/>
+                    <Description locale="zh_HK" value="中國太保 20160829"/>
+                    <Description locale="zh_CN" value="中国太保 20160829"/>
+                </Report>
+                <Report id="-86756313">
+                    <Description locale="en"
+                        path="2601HK-P510037-03May16-V1.pdf" value="CHINA PACIFIC-H 20160503"/>
+                    <Description locale="zh_HK" value="中國太保 20160503"/>
+                    <Description locale="zh_CN" value="中国太保 20160503"/>
+                </Report>
+                <Report id="1964169265">
+                    <Description locale="en"
+                        path="2601HK-P504736-29Mar16-V1.pdf" value="CHINA PACIFIC-H 20160329"/>
+                    <Description locale="zh_HK" value="中國太保 20160329"/>
+                    <Description locale="zh_CN" value="中国太保 20160329"/>
+                </Report>
+            </Company>
+            <Company id="02328HK">
+                <Description locale="en" value="PICC P&amp;C-H"/>
+                <Description locale="zh_HK" value="中國財險"/>
+                <Description locale="zh_CN" value="中国财险"/>
+                <Report id="-268997233">
+                    <Description locale="en"
+                        path="2328HK-P504725-29Mar16-V1.pdf" value="PICC P&amp;C-H 20160329"/>
+                    <Description locale="zh_HK" value="中國財險 20160329"/>
+                    <Description locale="zh_CN" value="中国财险 20160329"/>
+                </Report>
+                <Report id="-1418261121">
+                    <Description locale="en"
+                        path="2328HK-P525310-27Aug16-V1.pdf" value="PICC P&amp;C-H 20160827"/>
+                    <Description locale="zh_HK" value="中國財險 20160827"/>
+                    <Description locale="zh_CN" value="中国财险 20160827"/>
+                </Report>
+            </Company>
+            <Company id="01339HK">
+                <Description locale="en" value="PICC GROUP-H"/>
+                <Description locale="zh_HK" value="中國人民保險集團"/>
+                <Description locale="zh_CN" value="中国人民保险集团"/>
+            </Company>
+            <Company id="01508HK">
+                <Description locale="en" value="CHINA REINSURA-H"/>
+                <Description locale="zh_HK" value="中國再保險"/>
+                <Description locale="zh_CN" value="中国再保险"/>
+            </Company>
+        </Sector>
+        <Sector id="INTERNET">
+            <Description locale="en" value="Internet"/>
+            <Description locale="zh_HK" value="互聯網及服務"/>
+            <Description locale="zh_CN" value="互联网及服务"/>
+            <Company id="00700HK">
+                <Description locale="en" value="TENCENT"/>
+                <Description locale="zh_HK" value="騰訊控股"/>
+                <Description locale="zh_CN" value="腾讯控股有限公司"/>
+                <Report id="-538797560">
+                    <Description locale="en"
+                        path="0700HK-P530405-08Oct16-V1.pdf" value="TENCENT 20161008"/>
+                    <Description locale="zh_HK" value="騰訊控股 20161008"/>
+                    <Description locale="zh_CN" value="腾讯控股有限公司 20161008"/>
+                </Report>
+                <Report id="-1036226829">
+                    <Description locale="en"
+                        path="0700HK-P595190-24Mar17-V1.pdf" value="TENCENT 20170324"/>
+                    <Description locale="zh_HK" value="騰訊控股 20170324"/>
+                    <Description locale="zh_CN" value="腾讯控股有限公司 20170324"/>
+                </Report>
+                <Report id="883392756">
+                    <Description locale="en"
+                        path="0700HK-P503367-18Mar16-V1.pdf" value="TENCENT 20160318"/>
+                    <Description locale="zh_HK" value="騰訊控股 20160318"/>
+                    <Description locale="zh_CN" value="腾讯控股有限公司 20160318"/>
+                </Report>
+                <Report id="1176999240">
+                    <Description locale="en"
+                        path="0700HK-P550652-08Feb17-V1.pdf" value="TENCENT 20170208"/>
+                    <Description locale="zh_HK" value="騰訊控股 20170208"/>
+                    <Description locale="zh_CN" value="腾讯控股有限公司 20170208"/>
+                </Report>
+                <Report id="-1825172673">
+                    <Description locale="en"
+                        path="0700HK-P592624-23Mar17-V1.pdf" value="TENCENT 20170323"/>
+                    <Description locale="zh_HK" value="騰訊控股 20170323"/>
+                    <Description locale="zh_CN" value="腾讯控股有限公司 20170323"/>
+                </Report>
+                <Report id="731293574">
+                    <Description locale="en"
+                        path="0700HK-P512484-20May16-V1.pdf" value="TENCENT 20160520"/>
+                    <Description locale="zh_HK" value="騰訊控股 20160520"/>
+                    <Description locale="zh_CN" value="腾讯控股有限公司 20160520"/>
+                </Report>
+                <Report id="-279422003">
+                    <Description locale="en"
+                        path="0700HK-P516756-29Jun16-V1.pdf" value="TENCENT 20160629"/>
+                    <Description locale="zh_HK" value="騰訊控股 20160629"/>
+                    <Description locale="zh_CN" value="腾讯控股有限公司 20160629"/>
+                </Report>
+                <Report id="-1710504701">
+                    <Description locale="en"
+                        path="0700HK-P585897-21Mar17-V1.pdf" value="TENCENT 20170321"/>
+                    <Description locale="zh_HK" value="騰訊控股 20170321"/>
+                    <Description locale="zh_CN" value="腾讯控股有限公司 20170321"/>
+                </Report>
+                <Report id="117304670">
+                    <Description locale="en"
+                        path="0700HK-P512825-23May16-V1.pdf" value="TENCENT 20160523"/>
+                    <Description locale="zh_HK" value="騰訊控股 20160523"/>
+                    <Description locale="zh_CN" value="腾讯控股有限公司 20160523"/>
+                </Report>
+                <Report id="-1753651348">
+                    <Description locale="en"
+                        path="0700HK-P541224-10Jan17-V1.pdf" value="TENCENT 20170110"/>
+                    <Description locale="zh_HK" value="騰訊控股 20170110"/>
+                    <Description locale="zh_CN" value="腾讯控股有限公司 20170110"/>
+                </Report>
+                <Report id="66767787">
+                    <Description locale="en"
+                        path="0700HK-P516014-22Jun16-V1.pdf" value="TENCENT 20160622"/>
+                    <Description locale="zh_HK" value="騰訊控股 20160622"/>
+                    <Description locale="zh_CN" value="腾讯控股有限公司 20160622"/>
+                </Report>
+                <Report id="1675778307">
+                    <Description locale="en"
+                        path="0700HK-P523460-18Aug16-V1.pdf" value="TENCENT 20160818"/>
+                    <Description locale="zh_HK" value="騰訊控股 20160818"/>
+                    <Description locale="zh_CN" value="腾讯控股有限公司 20160818"/>
+                </Report>
+                <Report id="1411911942">
+                    <Description locale="en"
+                        path="0700HK-P681364-18May17-V1.pdf" value="TENCENT 20170518"/>
+                    <Description locale="zh_HK" value="騰訊控股 20170518"/>
+                    <Description locale="zh_CN" value="腾讯控股有限公司 20170518"/>
+                </Report>
+                <Report id="1902206994">
+                    <Description locale="en"
+                        path="0700HK-P535948-17Nov16-V1.pdf" value="TENCENT 20161117"/>
+                    <Description locale="zh_HK" value="騰訊控股 20161117"/>
+                    <Description locale="zh_CN" value="腾讯控股有限公司 20161117"/>
+                </Report>
+                <Report id="1036200171">
+                    <Description locale="en"
+                        path="0700HK-P585897-18Mar17-V1.pdf" value="TENCENT 20170318"/>
+                    <Description locale="zh_HK" value="騰訊控股 20170318"/>
+                    <Description locale="zh_CN" value="腾讯控股有限公司 20170318"/>
+                </Report>
+            </Company>
+            <Company id="BABAUS">
+                <Description locale="en" value="ALIBABA GRP-ADR"/>
+                <Description locale="zh_HK" value="阿里巴巴集團控股有限公司"/>
+                <Description locale="zh_CN" value="阿里巴巴集团控股有限公司"/>
+            </Company>
+            <Company id="BIDUUS">
+                <Description locale="en" value="BAIDU INC-SP ADR"/>
+                <Description locale="zh_HK" value="百度股份有限公司"/>
+                <Description locale="zh_CN" value="百度"/>
+            </Company>
+        </Sector>
+        <Sector id="METALS_MINING">
+            <Description locale="en" value="Metals &amp; Mining"/>
+            <Description locale="zh_HK" value="金屬與採礦"/>
+            <Description locale="zh_CN" value="金属与采矿"/>
+            <Company id="01088HK">
+                <Description locale="en" value="CHINA SHENHUA-H"/>
+                <Description locale="zh_HK" value="中國神華"/>
+                <Description locale="zh_CN" value="中国神华"/>
+                <Report id="343158647">
+                    <Description locale="en"
+                        path="1088HK-P533779-01Nov16-V1.pdf" value="CHINA SHENHUA-H 20161101"/>
+                    <Description locale="zh_HK" value="中國神華 20161101"/>
+                    <Description locale="zh_CN" value="中国神华 20161101"/>
+                </Report>
+                <Report id="1636501844">
+                    <Description locale="en"
+                        path="1088HK-P504971-30Mar16-V1.pdf" value="CHINA SHENHUA-H 20160330"/>
+                    <Description locale="zh_HK" value="中國神華 20160330"/>
+                    <Description locale="zh_CN" value="中国神华 20160330"/>
+                </Report>
+                <Report id="1236825003">
+                    <Description locale="en"
+                        path="1088HK-P586336-20Mar17-V1.pdf" value="CHINA SHENHUA-H 20170320"/>
+                    <Description locale="zh_HK" value="中國神華 20170320"/>
+                    <Description locale="zh_CN" value="中国神华 20170320"/>
+                </Report>
+                <Report id="-1218187874">
+                    <Description locale="en"
+                        path="1088HK-P525652-30Aug16-V1.pdf" value="CHINA SHENHUA-H 20160830"/>
+                    <Description locale="zh_HK" value="中國神華 20160830"/>
+                    <Description locale="zh_CN" value="中国神华 20160830"/>
+                </Report>
+            </Company>
+            <Company id="01898HK">
+                <Description locale="en" value="CHINA COAL ENE-H"/>
+                <Description locale="zh_HK" value="中煤能源"/>
+                <Description locale="zh_CN" value="中煤能源"/>
+            </Company>
+            <Company id="02899HK">
+                <Description locale="en" value="ZIJIN MINING-H"/>
+                <Description locale="zh_HK" value="紫金礦業"/>
+                <Description locale="zh_CN" value="紫金矿业"/>
+            </Company>
+            <Company id="02600HK">
+                <Description locale="en" value="ALUMINUM CORP-H"/>
+                <Description locale="zh_HK" value="中國鋁業"/>
+                <Description locale="zh_CN" value="中国铝业股份有限公司"/>
+            </Company>
+            <Company id="00358HK">
+                <Description locale="en" value="JIANGXI COPPER-H"/>
+                <Description locale="zh_HK" value="江西銅業"/>
+                <Description locale="zh_CN" value="江西铜业"/>
+                <Report id="585859095">
+                    <Description locale="en"
+                        path="0358HK-P529236-28Sep16-V1.pdf" value="JIANGXI COPPER-H 20160928"/>
+                    <Description locale="zh_HK" value="江西銅業 20160928"/>
+                    <Description locale="zh_CN" value="江西铜业 20160928"/>
+                </Report>
+                <Report id="-1436581048">
+                    <Description locale="en"
+                        path="0358HK-P498287-23Feb16-V1.pdf" value="JIANGXI COPPER-H 20160223"/>
+                    <Description locale="zh_HK" value="江西銅業 20160223"/>
+                    <Description locale="zh_CN" value="江西铜业 20160223"/>
+                </Report>
+            </Company>
+            <Company id="00347HK">
+                <Description locale="en" value="ANGANG STEEL-H"/>
+                <Description locale="zh_HK" value="鞍鋼股份"/>
+                <Description locale="zh_CN" value="鞍钢股份"/>
+            </Company>
+            <Company id="00323HK">
+                <Description locale="en" value="MAANSHAN IRON-H"/>
+                <Description locale="zh_HK" value="馬鋼股份"/>
+                <Description locale="zh_CN" value="马钢股份"/>
+            </Company>
+            <Company id="01818HK">
+                <Description locale="en" value="ZHAOJIN MINING-H"/>
+                <Description locale="zh_HK" value="招金礦業"/>
+                <Description locale="zh_CN" value="招金矿业"/>
+            </Company>
+        </Sector>
+        <Sector id="PROPERTIES_HK">
+            <Description locale="en" value="Properties (Hong Kong)"/>
+            <Description locale="zh_HK" value="房地產 (香港)"/>
+            <Description locale="zh_CN" value="房地产 (香港)"/>
+            <Company id="00004HK">
+                <Description locale="en" value="WHARF HLDG"/>
+                <Description locale="zh_HK" value="九龍倉集團"/>
+                <Description locale="zh_CN" value="九龙仓集团"/>
+            </Company>
+            <Company id="01972HK">
+                <Description locale="en" value="SWIREPROPERTIES"/>
+                <Description locale="zh_HK" value="太古地產"/>
+                <Description locale="zh_CN" value="太古地产"/>
+            </Company>
+            <Company id="00101HK">
+                <Description locale="en" value="HANG LUNG PPT"/>
+                <Description locale="zh_HK" value="恆隆地產"/>
+                <Description locale="zh_CN" value="恒隆地产"/>
+            </Company>
+            <Company id="00014HK">
+                <Description locale="en" value="HYSAN DEV"/>
+                <Description locale="zh_HK" value="希慎興業"/>
+                <Description locale="zh_CN" value="希慎兴业"/>
+            </Company>
+            <Company id="00683HK">
+                <Description locale="en" value="KERRY PPT"/>
+                <Description locale="zh_HK" value="嘉里建設"/>
+                <Description locale="zh_CN" value="嘉里建设"/>
+            </Company>
+            <Company id="00016HK">
+                <Description locale="en" value="SHK PPT"/>
+                <Description locale="zh_HK" value="新鴻基地產"/>
+                <Description locale="zh_CN" value="新鸿基地产"/>
+                <Report id="634957525">
+                    <Description locale="en"
+                        path="0016HK-P499084-29Feb16-V1.pdf" value="SHK PPT 20160229"/>
+                    <Description locale="zh_HK" value="新鴻基地產 20160229"/>
+                    <Description locale="zh_CN" value="新鸿基地产 20160229"/>
+                </Report>
+                <Report id="-1051638182">
+                    <Description locale="en"
+                        path="0016HK-P527378-09Sep16-V1.pdf" value="SHK PPT 20160909"/>
+                    <Description locale="zh_HK" value="新鴻基地產 20160909"/>
+                    <Description locale="zh_CN" value="新鸿基地产 20160909"/>
+                </Report>
+                <Report id="1402731479">
+                    <Description locale="en"
+                        path="0016HK-P522943-15Aug16-V1.pdf" value="SHK PPT 20160815"/>
+                    <Description locale="zh_HK" value="新鴻基地產 20160815"/>
+                    <Description locale="zh_CN" value="新鸿基地产 20160815"/>
+                </Report>
+                <Report id="-1065828438">
+                    <Description locale="en"
+                        path="0016HK-P564873-01Mar17-V1.pdf" value="SHK PPT 20170301"/>
+                    <Description locale="zh_HK" value="新鴻基地產 20170301"/>
+                    <Description locale="zh_CN" value="新鸿基地产 20170301"/>
+                </Report>
+                <Report id="809658338">
+                    <Description locale="en"
+                        path="0016HK-P498748-26Feb16-V1.pdf" value="SHK PPT 20160226"/>
+                    <Description locale="zh_HK" value="新鴻基地產 20160226"/>
+                    <Description locale="zh_CN" value="新鸿基地产 20160226"/>
+                </Report>
+            </Company>
+            <Company id="01113HK">
+                <Description locale="en" value="CHEUNG KONG PROP"/>
+                <Description locale="zh_HK" value="長實地產"/>
+                <Description locale="zh_CN" value="长实地产"/>
+            </Company>
+            <Company id="00012HK">
+                <Description locale="en" value="HENDERSON LAND D"/>
+                <Description locale="zh_HK" value="恆基地產"/>
+                <Description locale="zh_CN" value="恒基地产"/>
+                <Report id="-44288744">
+                    <Description locale="en"
+                        path="0012HK-P524678-31Aug16-V1.pdf" value="HENDERSON LAND D 20160831"/>
+                    <Description locale="zh_HK" value="恆基地產 20160831"/>
+                    <Description locale="zh_CN" value="恒基地产 20160831"/>
+                </Report>
+                <Report id="1002588186">
+                    <Description locale="en"
+                        path="0012HK-P590709-22Mar17-V1.pdf" value="HENDERSON LAND D 20170322"/>
+                    <Description locale="zh_HK" value="恆基地產 20170322"/>
+                    <Description locale="zh_CN" value="恒基地产 20170322"/>
+                </Report>
+                <Report id="-1081717">
+                    <Description locale="en"
+                        path="0012HK-P512796-23May16-V1.pdf" value="HENDERSON LAND D 20160523"/>
+                    <Description locale="zh_HK" value="恆基地產 20160523"/>
+                    <Description locale="zh_CN" value="恒基地产 20160523"/>
+                </Report>
+                <Report id="-1749847187">
+                    <Description locale="en"
+                        path="0012HK-P503747-22Mar16-V1.pdf" value="HENDERSON LAND D 20160322"/>
+                    <Description locale="zh_HK" value="恆基地產 20160322"/>
+                    <Description locale="zh_CN" value="恒基地产 20160322"/>
+                </Report>
+                <Report id="-418939140">
+                    <Description locale="en"
+                        path="0012HK-P524678-24Aug16-V1.pdf" value="HENDERSON LAND D 20160824"/>
+                    <Description locale="zh_HK" value="恆基地產 20160824"/>
+                    <Description locale="zh_CN" value="恒基地产 20160824"/>
+                </Report>
+            </Company>
+            <Company id="00823HK">
+                <Description locale="en" value="LINK REIT"/>
+                <Description locale="zh_HK" value="領展房產基金"/>
+                <Description locale="zh_CN" value="领展房产基金"/>
+            </Company>
+            <Company id="00083HK">
+                <Description locale="en" value="SINO LAND"/>
+                <Description locale="zh_HK" value="信和置業"/>
+                <Description locale="zh_CN" value="信和置业"/>
+            </Company>
+            <Company id="HKLSP">
+                <Description locale="en" value="HONGKONG LAND"/>
+                <Description locale="zh_HK" value="香港置地集團公司"/>
+                <Description locale="zh_CN" value="香港置地集团公司"/>
+            </Company>
+        </Sector>
+        <Sector id="PROPERTIES_CN">
+            <Description locale="en" value="Properties (China)"/>
+            <Description locale="zh_HK" value="房地產 (中國)"/>
+            <Description locale="zh_CN" value="房地产 (中国)"/>
+            <Company id="02007HK">
+                <Description locale="en" value="COUNTRY GARDEN"/>
+                <Description locale="zh_HK" value="碧桂園"/>
+                <Description locale="zh_CN" value="碧桂园"/>
+                <Report id="-1952624095">
+                    <Description locale="en"
+                        path="2007HK-P594627-24Mar17-V1.pdf" value="COUNTRY GARDEN 20170324"/>
+                    <Description locale="zh_HK" value="碧桂園 20170324"/>
+                    <Description locale="zh_CN" value="碧桂园 20170324"/>
+                </Report>
+                <Report id="-1616668281">
+                    <Description locale="en"
+                        path="2007HK-P502928-15Mar16-V1.pdf" value="COUNTRY GARDEN 20160315"/>
+                    <Description locale="zh_HK" value="碧桂園 20160315"/>
+                    <Description locale="zh_CN" value="碧桂园 20160315"/>
+                </Report>
+                <Report id="-527842195">
+                    <Description locale="en"
+                        path="2007HK-P540714-05Jan17-V1.pdf" value="COUNTRY GARDEN 20170105"/>
+                    <Description locale="zh_HK" value="碧桂園 20170105"/>
+                    <Description locale="zh_CN" value="碧桂园 20170105"/>
+                </Report>
+                <Report id="-1998842922">
+                    <Description locale="en"
+                        path="2007HK-P534616-07Nov16-V1.pdf" value="COUNTRY GARDEN 20161107"/>
+                    <Description locale="zh_HK" value="碧桂園 20161107"/>
+                    <Description locale="zh_CN" value="碧桂园 20161107"/>
+                </Report>
+                <Report id="-345221981">
+                    <Description locale="en"
+                        path="2007HK-P523683-19Aug16-V1.pdf" value="COUNTRY GARDEN 20160819"/>
+                    <Description locale="zh_HK" value="碧桂園 20160819"/>
+                    <Description locale="zh_CN" value="碧桂园 20160819"/>
+                </Report>
+            </Company>
+            <Company id="02777HK">
+                <Description locale="en" value="GUANGZHOU R&amp;F -H"/>
+                <Description locale="zh_HK" value="富力地產"/>
+                <Description locale="zh_CN" value="富力地产"/>
+            </Company>
+            <Company id="03377HK">
+                <Description locale="en" value="SINO-OCEAN GROUP"/>
+                <Description locale="zh_HK" value="遠洋集團"/>
+                <Description locale="zh_CN" value="远洋集团"/>
+            </Company>
+            <Company id="03383HK">
+                <Description locale="en" value="AGILE GROUP HOLD"/>
+                <Description locale="zh_HK" value="雅居樂集團"/>
+                <Description locale="zh_CN" value="雅居乐集团"/>
+            </Company>
+            <Company id="00688HK">
+                <Description locale="en" value="CHINA OVERSEAS"/>
+                <Description locale="zh_HK" value="中國海外發展"/>
+                <Description locale="zh_CN" value="中国海外发展"/>
+                <Report id="874152116">
+                    <Description locale="en"
+                        path="0688HK-P529951-05Oct16-V1.pdf" value="CHINA OVERSEAS 20161005"/>
+                    <Description locale="zh_HK" value="中國海外發展 20161005"/>
+                    <Description locale="zh_CN" value="中国海外发展 20161005"/>
+                </Report>
+                <Report id="-967996329">
+                    <Description locale="en"
+                        path="0688HK-P538980-08Dec16-V1.pdf" value="CHINA OVERSEAS 20161208"/>
+                    <Description locale="zh_HK" value="中國海外發展 20161208"/>
+                    <Description locale="zh_CN" value="中国海外发展 20161208"/>
+                </Report>
+                <Report id="2619612">
+                    <Description locale="en"
+                        path="0688HK-P530929-13Oct16-V1.pdf" value="CHINA OVERSEAS 20161013"/>
+                    <Description locale="zh_HK" value="中國海外發展 20161013"/>
+                    <Description locale="zh_CN" value="中国海外发展 20161013"/>
+                </Report>
+                <Report id="-338994488">
+                    <Description locale="en"
+                        path="0688HK-P592594-23Mar17-V1.pdf" value="CHINA OVERSEAS 20170323"/>
+                    <Description locale="zh_HK" value="中國海外發展 20170323"/>
+                    <Description locale="zh_CN" value="中国海外发展 20170323"/>
+                </Report>
+                <Report id="920086477">
+                    <Description locale="en"
+                        path="0688HK-P662198-09May17-V1.pdf" value="CHINA OVERSEAS 20170509"/>
+                    <Description locale="zh_HK" value="中國海外發展 20170509"/>
+                    <Description locale="zh_CN" value="中国海外发展 20170509"/>
+                </Report>
+                <Report id="-1260109847">
+                    <Description locale="en"
+                        path="0688HK-P492338-14Jan16-V1.pdf" value="CHINA OVERSEAS 20160114"/>
+                    <Description locale="zh_HK" value="中國海外發展 20160114"/>
+                    <Description locale="zh_CN" value="中国海外发展 20160114"/>
+                </Report>
+                <Report id="2134072213">
+                    <Description locale="en"
+                        path="0688HK-P535824-16Nov16-V1.pdf" value="CHINA OVERSEAS 20161116"/>
+                    <Description locale="zh_HK" value="中國海外發展 20161116"/>
+                    <Description locale="zh_CN" value="中国海外发展 20161116"/>
+                </Report>
+            </Company>
+            <Company id="01109HK">
+                <Description locale="en" value="CHINA RES LAND"/>
+                <Description locale="zh_HK" value="華潤置地"/>
+                <Description locale="zh_CN" value="华润置地"/>
+                <Report id="-1398628900">
+                    <Description locale="en"
+                        path="1109HK-P525368-29Aug16-V1.pdf" value="CHINA RES LAND 20160829"/>
+                    <Description locale="zh_HK" value="華潤置地 20160829"/>
+                    <Description locale="zh_CN" value="华润置地 20160829"/>
+                </Report>
+                <Report id="473907815">
+                    <Description locale="en"
+                        path="1109HK-P502714-14Mar16-V1.pdf" value="CHINA RES LAND 20160314"/>
+                    <Description locale="zh_HK" value="華潤置地 20160314"/>
+                    <Description locale="zh_CN" value="华润置地 20160314"/>
+                </Report>
+                <Report id="-919430552">
+                    <Description locale="en"
+                        path="1109HK-P503622-21Mar16-V1.pdf" value="CHINA RES LAND 20160321"/>
+                    <Description locale="zh_HK" value="華潤置地 20160321"/>
+                    <Description locale="zh_CN" value="华润置地 20160321"/>
+                </Report>
+                <Report id="984120223">
+                    <Description locale="en"
+                        path="1109HK-P592402-23Mar17-V1.pdf" value="CHINA RES LAND 20170323"/>
+                    <Description locale="zh_HK" value="華潤置地 20170323"/>
+                    <Description locale="zh_CN" value="华润置地 20170323"/>
+                </Report>
+                <Report id="-1771937615">
+                    <Description locale="en"
+                        path="1109HK-P536955-24Nov16-V1.pdf" value="CHINA RES LAND 20161124"/>
+                    <Description locale="zh_HK" value="華潤置地 20161124"/>
+                    <Description locale="zh_CN" value="华润置地 20161124"/>
+                </Report>
+            </Company>
+            <Company id="00960HK">
+                <Description locale="en" value="LONGFOR PPT"/>
+                <Description locale="zh_HK" value="龍湖地產"/>
+                <Description locale="zh_CN" value="龙湖地产"/>
+            </Company>
+            <Company id="00813HK">
+                <Description locale="en" value="SHIMAO PROPERTY"/>
+                <Description locale="zh_HK" value="世茂房地產"/>
+                <Description locale="zh_CN" value="世茂房地产"/>
+                <Report id="-413772746">
+                    <Description locale="en"
+                        path="0813HK-P709088-06Jun17-V1.pdf" value="SHIMAO PROPERTY 20170606"/>
+                    <Description locale="zh_HK" value="世茂房地產 20170606"/>
+                    <Description locale="zh_CN" value="世茂房地产 20170606"/>
+                </Report>
+                <Report id="-935061523">
+                    <Description locale="en"
+                        path="0813HK-P604164-30Mar17-V1.pdf" value="SHIMAO PROPERTY 20170330"/>
+                    <Description locale="zh_HK" value="世茂房地產 20170330"/>
+                    <Description locale="zh_CN" value="世茂房地产 20170330"/>
+                </Report>
+                <Report id="-1710245941">
+                    <Description locale="en"
+                        path="0813HK-P514401-07Jun16-V1.pdf" value="SHIMAO PROPERTY 20160607"/>
+                    <Description locale="zh_HK" value="世茂房地產 20160607"/>
+                    <Description locale="zh_CN" value="世茂房地产 20160607"/>
+                </Report>
+                <Report id="560474745">
+                    <Description locale="en"
+                        path="0813HK-P666859-11May17-V2.pdf" value="SHIMAO PROPERTY 20170511"/>
+                    <Description locale="zh_HK" value="世茂房地產 20170511"/>
+                    <Description locale="zh_CN" value="世茂房地产 20170511"/>
+                </Report>
+                <Report id="1580721577">
+                    <Description locale="en"
+                        path="0813HK-P505115-31Mar16-V1.pdf" value="SHIMAO PROPERTY 20160331"/>
+                    <Description locale="zh_HK" value="世茂房地產 20160331"/>
+                    <Description locale="zh_CN" value="世茂房地产 20160331"/>
+                </Report>
+                <Report id="1819851078">
+                    <Description locale="en"
+                        path="0813HK-P525908-31Aug16-V1.pdf" value="SHIMAO PROPERTY 20160831"/>
+                    <Description locale="zh_HK" value="世茂房地產 20160831"/>
+                    <Description locale="zh_CN" value="世茂房地产 20160831"/>
+                </Report>
+                <Report id="-1615369364">
+                    <Description locale="en"
+                        path="0813HK-P492743-19Jan16-V1.pdf" value="SHIMAO PROPERTY 20160119"/>
+                    <Description locale="zh_HK" value="世茂房地產 20160119"/>
+                    <Description locale="zh_CN" value="世茂房地产 20160119"/>
+                </Report>
+            </Company>
+            <Company id="00817HK">
+                <Description locale="en" value="CHINA JINMAO HOL"/>
+                <Description locale="zh_HK" value="中國金茂"/>
+                <Description locale="zh_CN" value="中国金茂"/>
+            </Company>
+            <Company id="00410HK">
+                <Description locale="en" value="SOHO CHINA"/>
+                <Description locale="zh_HK" value="SOHO中國"/>
+                <Description locale="zh_CN" value="SOHO中国"/>
+            </Company>
+            <Company id="00207HK">
+                <Description locale="en" value="JOY CITY PPT"/>
+                <Description locale="zh_HK" value="大悅城地產"/>
+                <Description locale="zh_CN" value="大悦城地产"/>
+            </Company>
+            <Company id="01813HK">
+                <Description locale="en" value="KWG PROPERTY"/>
+                <Description locale="zh_HK" value="合景泰富"/>
+                <Description locale="zh_CN" value="合景泰富"/>
+            </Company>
+            <Company id="00272HK">
+                <Description locale="en" value="SHUI ON LAND"/>
+                <Description locale="zh_HK" value="瑞安房地產"/>
+                <Description locale="zh_CN" value="瑞安房地产"/>
+            </Company>
+        </Sector>
+        <Sector id="SEMICONDUCTORS">
+            <Description locale="en" value="Semiconductors"/>
+            <Description locale="zh_HK" value="半導體"/>
+            <Description locale="zh_CN" value="半导体设备"/>
+            <Company id="00981HK">
+                <Description locale="en" value="SMIC"/>
+                <Description locale="zh_HK" value="中芯國際"/>
+                <Description locale="zh_CN" value="中芯国际"/>
+            </Company>
+            <Company id="00522HK">
+                <Description locale="en" value="ASM PACIFIC"/>
+                <Description locale="zh_HK" value="ASM太平洋"/>
+                <Description locale="zh_CN" value="ASM太平洋"/>
+            </Company>
+        </Sector>
+        <Sector id="TEXTILES">
+            <Description locale="en" value="Textiles"/>
+            <Description locale="zh_HK" value="紡織品"/>
+            <Description locale="zh_CN" value="纺织品"/>
+            <Company id="02313HK">
+                <Description locale="en" value="SHENZHOU INTL GP"/>
+                <Description locale="zh_HK" value="申洲國際"/>
+                <Description locale="zh_CN" value="申洲国际"/>
+            </Company>
+            <Company id="01382HK">
+                <Description locale="en" value="PACIFIC TEXTILE"/>
+                <Description locale="zh_HK" value="互太紡織"/>
+                <Description locale="zh_CN" value="互太纺织"/>
+            </Company>
+        </Sector>
+    </Market>
+</Root>

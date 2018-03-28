@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+  PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+	<environments default="development">
+		<environment id="development">
+			<transactionManager type="JDBC" />
+			<dataSource type="POOLED">
+				<property name="driver" value="com.sybase.jdbc3.jdbc.SybDriver" />
+				<property name="url" value="jdbc:sybase:Tds:xxx.hk.xxxx:10100/OES02" />
+				<property name="username" value="sysgrbsmq" />
+				<property name="password" value="xbsemfz2" />
+			</dataSource>
+		</environment>
+	</environments>
+	<mappers>
+		<mapper resource="config/mybatis/pojo/ExecMapper.xml" />
+	</mappers>
+</configuration>

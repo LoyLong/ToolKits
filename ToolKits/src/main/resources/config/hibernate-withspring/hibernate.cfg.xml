@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+	"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+	"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+
+	<session-factory>
+	
+	    <!-- 1，database connection setting -->
+	    <property name="dialect">org.hibernate.dialect.Sybase11Dialect</property>
+	    
+	    <!-- 2，other setting -->
+	    <property name="show_sql">true</property>
+	    <property name="hbm2ddl.auto">validate</property>
+	    
+	    <!-- 3，import the relationship mapping file -->
+	    <mapping resource="config/hibernate/User.hbm.xml" />
+	    
+	</session-factory>
+	
+</hibernate-configuration>

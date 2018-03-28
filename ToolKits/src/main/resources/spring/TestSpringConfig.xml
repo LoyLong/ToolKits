@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.0.xsd">
+
+	<!-- 
+	<import resource="classpath:/hbap/ntt2g/csa/selfdfn/service-proxy.xml"/>
+	<bean class="org.springframework.web.context.support.ServletContextPropertyPlaceholderConfigurer">
+	    <property name="env.mq.connectionMode" value="stub" />
+	</bean>
+	-->
+
+	<bean id="parent" class="org.loy.springtest.lazyinit.beans.Parent" lazy-init="true" >
+	    <property name="child" ref="childA" />
+	</bean>
+
+	<bean id="childA" class="org.loy.springtest.lazyinit.beans.ChildA" >
+	</bean>
+
+</beans>

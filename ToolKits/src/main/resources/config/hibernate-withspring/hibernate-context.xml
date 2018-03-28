@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	 xmlns:aop="http://www.springframework.org/schema/aop"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.0.xsd
+	http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-2.0.xsd">
+    
+    <bean id="userDao" class="org.loy.hibernate.dao.impl.UserDaoImpl">
+        <property name="sessionFactory" ref="sessionFactory" />
+    </bean>
+	
+    <bean id="transactionManager" class="org.springframework.orm.hibernate5.HibernateTransactionManager">
+        <property name="sessionFactory" ref="sessionFactory" />
+    </bean>
+	
+	<!-- set SessionFactory -->
+    <bean id="sessionFactory" class="org.springframework.orm.hibernate5.LocalSessionFactoryBean">
+        <!-- hibernate configuration path-->
+        <!-- 
+         -->
+        <property name="configLocation" value="classpath:config/hibernate/hibernate.cfg.xml" />
+        <!-- c3p0 datasource -->
+        <property name="dataSource">
+            <bean class="com.mchange.v2.c3p0.ComboPooledDataSource">
+                <!-- database info -->
+                <!-- <property name="jdbcUrl" value="${jdbcUrl}"></property> -->
+                <!-- 
+                <property name="jdbcUrl" value="jdbc:jtds:sybase://xxx.hk.xxxx:10100:IFS" />
+                <property name="driverClass" value="net.sourceforge.jtds.jdbc.Driver" />
+                 -->
+                <property name="jdbcUrl" value="jdbc:sybase:Tds://xxx.hk.xxxx:10100:IFS" />
+                <property name="driverClass" value="com.sybase.jdbc3.jdbc.SybDriver" />
+                <property name="user" value="sysgrbsmq" />
+                <property name="password" value="xbsemfz2" />
+                <!-- connection setting -->
+                <!-- initial connection, should be set between minPoolSize and maxPoolSize. Default: 3 -->
+                <property name="initialPoolSize" value="3" />
+                <!-- minPoolSize Default: 3 -->
+                <property name="minPoolSize" value="3" />
+                <!-- maxPoolSize Default: 15 -->
+                <property name="maxPoolSize" value="5" />
+                <!-- 当连接池中的连接耗尽的时候c3p0一次同时获取的连接数 Default: 3 -->
+                <property name="acquireIncrement" value="3" />
+                <!-- 控制数据源内加载的PreparedStatements数量 如果maxStatements与maxStatementsPerConnection均为0，则缓存被关闭 Default: 0 -->
+                <property name="maxStatements" value="8" />
+                <!--maxStatementsPerConnection定义了连接池内单个连接所拥有的最大缓存statements数 Default: 0 -->
+                <property name="maxStatementsPerConnection" value="5" />
+                <!--最大空闲时间,1800秒内未使用则连接被丢弃 若为0则永不丢弃 Default: 0 -->
+                <property name="maxIdleTime" value="1800" />
+            </bean>
+        </property>
+        <property name="hibernateProperties">
+            <props>
+            	<!-- 
+                <prop key="hibernate.dialect">org.hibernate.dialect.Sybase11Dialect</prop>
+                 -->
+                <prop key="hibernate.dialect">org.hibernate.dialect.SybaseDialect</prop>
+                <prop key="hibernate.show_sql">true</prop>
+                <prop key="hibernate.hbm2ddl.auto">validate</prop>
+            </props>
+        </property>
+    </bean>
+    
+</beans>

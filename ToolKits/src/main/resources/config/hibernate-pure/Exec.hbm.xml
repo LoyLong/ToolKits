@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+	"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+	"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+
+<hibernate-mapping package="org.loy.hibernate.pojo">
+    <class name="OrderExecution" table="AuxExec">
+    	<id name="ordNum" column="OrdNum" type="java.lang.Integer" length="4"/>
+    	<property name="ordDate" column="OrdDate" />
+    	<property name="execNum" column="ExecNum" type="java.lang.Integer" length="4"/>
+    	<property name="execDate" column="ExecDate" />
+    	<property name="pic" column="PIC" type="java.lang.String" length="40"/>
+    	<property name="execQty" column="Qty" type="java.lang.Integer" length="4"/>
+    	<property name="price" column="Price" />
+    	<property name="status" column="Status" />
+    	<property name="updateTime" column="UpdateTime" />
+    	<property name="trans" column="Trans" />
+    	<property name="imReleased" column="IMReleased" />
+    	<property name="excludeInPos" column="ExcludeInPos" />
+    	<property name="ledgerBalInUSD" column="LedgerBalInUSD" />
+    	<property name="marginValueInUSD" column="MarginValueInUSD" />
+    	<property name="preReleaseMargin" column="PreReleaseMargin" />
+    	<property name="relExecNum" column="RelExecNum" />
+    	<property name="relExecDate" column="RelExecDate" />
+        <!-- 
+        <property name="password" column="PWD" type="java.lang.String" not-null="true" length="258" />
+         -->
+    </class>
+</hibernate-mapping>
+
+
+
+
+
